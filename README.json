@@ -28,7 +28,7 @@
             "last_commit": "2024-08-01T06:51:47Z",
             "owner": "Textualize",
             "repo": "frogmouth",
-            "stars": 3254
+            "stars": 3260
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2024-10-10T19:12:52Z",
             "owner": "darrenburns",
             "repo": "elia",
-            "stars": 2477
+            "stars": 2479
           }
         },
         {
@@ -70,7 +70,7 @@
             "last_commit": "2026-02-21T22:00:38Z",
             "owner": "1j01",
             "repo": "textual-paint",
-            "stars": 1120
+            "stars": 1121
           }
         },
         {
@@ -428,7 +428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:17:09.196Z",
+    "last_updated": "2026-08-13T17:27:46.714Z",
     "original_repository": "oleksis/awesome-textualize-projects",
     "original_repository_sha": "4b59dff3221a74387eeb5eb4a81449f05b1b23f0",
     "enhanced_repository": "enhansome/enhansome-textualize-projects",
