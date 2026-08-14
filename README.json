@@ -14,7 +14,7 @@
             "last_commit": "2024-08-05T19:29:28Z",
             "owner": "Textualize",
             "repo": "toolong",
-            "stars": 3938
+            "stars": 3939
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2024-08-01T06:51:47Z",
             "owner": "Textualize",
             "repo": "frogmouth",
-            "stars": 3260
+            "stars": 3263
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2026-08-03T13:43:54Z",
             "owner": "PabloLec",
             "repo": "RecoverPy",
-            "stars": 1784
+            "stars": 1785
           }
         },
         {
@@ -112,7 +112,7 @@
             "last_commit": "2024-10-18T09:50:15Z",
             "owner": "darrenburns",
             "repo": "rich-pixels",
-            "stars": 517
+            "stars": 518
           }
         },
         {
@@ -428,7 +428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T17:27:46.714Z",
+    "last_updated": "2026-08-14T17:26:52.404Z",
     "original_repository": "oleksis/awesome-textualize-projects",
     "original_repository_sha": "4b59dff3221a74387eeb5eb4a81449f05b1b23f0",
     "enhanced_repository": "enhansome/enhansome-textualize-projects",
