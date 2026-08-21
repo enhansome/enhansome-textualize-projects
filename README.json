@@ -17,7 +17,7 @@
                 "last_commit": "2024-08-05T19:29:28Z",
                 "owner": "Textualize",
                 "repo": "toolong",
-                "stars": 3940
+                "stars": 3939
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2024-08-01T06:51:47Z",
                 "owner": "Textualize",
                 "repo": "frogmouth",
-                "stars": 3271
+                "stars": 3268
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2024-10-10T19:12:52Z",
                 "owner": "darrenburns",
                 "repo": "elia",
-                "stars": 2479
+                "stars": 2480
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2026-08-03T13:43:54Z",
                 "owner": "PabloLec",
                 "repo": "RecoverPy",
-                "stars": 1786
+                "stars": 1784
               }
             },
             {
@@ -152,7 +152,7 @@
                 "last_commit": "2025-10-05T20:39:27Z",
                 "owner": "Cvaniak",
                 "repo": "NoteSH",
-                "stars": 489
+                "stars": 488
               }
             },
             {
@@ -167,7 +167,7 @@
                 "last_commit": "2026-06-23T09:13:39Z",
                 "owner": "royreznik",
                 "repo": "rexi",
-                "stars": 396
+                "stars": 395
               }
             },
             {
@@ -272,7 +272,7 @@
                 "last_commit": "2023-01-08T05:18:54Z",
                 "owner": "adamviola",
                 "repo": "textual-imageview",
-                "stars": 139
+                "stars": 138
               }
             },
             {
@@ -465,7 +465,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T17:00:05.214Z",
+    "last_updated": "2026-08-21T17:00:26.693Z",
     "original_repository": "oleksis/awesome-textualize-projects",
     "original_repository_id": 581939421,
     "original_repository_sha": "4b59dff3221a74387eeb5eb4a81449f05b1b23f0",
