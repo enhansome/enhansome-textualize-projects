@@ -4,6 +4,57 @@
       "description": null,
       "items": [
         {
+          "node_type": "item",
+          "title": "Rich",
+          "description": "a Python library for rich text and beautiful formatting in the terminal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 220809393,
+            "language": "Python",
+            "last_commit": "2026-06-23T03:10:19Z",
+            "owner": "Textualize",
+            "repo": "rich",
+            "stars": 57167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Textual",
+          "description": "a TUI (Text User Interface) framework for Python inspired by modern web development.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 355959597,
+            "language": "Python",
+            "last_commit": "2026-07-11T06:02:34Z",
+            "owner": "Textualize",
+            "repo": "textual",
+            "stars": 37025
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rich CLI",
+          "description": "a command line toolbox for fancy output in the terminal",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 450811921,
+            "language": "Python",
+            "last_commit": "2026-08-12T04:57:11Z",
+            "owner": "Textualize",
+            "repo": "rich-cli",
+            "stars": 3711
+          }
+        }
+      ],
+      "title": "Overview"
+    },
+    {
+      "description": null,
+      "items": [
+        {
           "children": [
             {
               "node_type": "item",
@@ -47,7 +98,7 @@
                 "last_commit": "2024-10-10T19:12:52Z",
                 "owner": "darrenburns",
                 "repo": "elia",
-                "stars": 2481
+                "stars": 2482
               }
             },
             {
@@ -465,7 +516,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T16:50:11.218Z",
+    "last_updated": "2026-08-24T14:38:49.304Z",
     "original_repository": "oleksis/awesome-textualize-projects",
     "original_repository_id": 581939421,
     "original_repository_sha": "4b59dff3221a74387eeb5eb4a81449f05b1b23f0",
