@@ -15,7 +15,7 @@
             "last_commit": "2026-06-23T03:10:19Z",
             "owner": "Textualize",
             "repo": "rich",
-            "stars": 57167
+            "stars": 57175
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-07-11T06:02:34Z",
             "owner": "Textualize",
             "repo": "textual",
-            "stars": 37025
+            "stars": 37028
           }
         },
         {
@@ -233,7 +233,7 @@
                 "last_commit": "2024-10-16T18:36:34Z",
                 "owner": "anze3db",
                 "repo": "django-tui",
-                "stars": 295
+                "stars": 296
               }
             },
             {
@@ -248,7 +248,7 @@
                 "last_commit": "2026-01-24T00:45:26Z",
                 "owner": "darrenburns",
                 "repo": "textual-autocomplete",
-                "stars": 291
+                "stars": 292
               }
             },
             {
@@ -488,7 +488,7 @@
                 "last_commit": "2023-08-01T00:57:11Z",
                 "owner": "cdelker",
                 "repo": "palettepal",
-                "stars": 5
+                "stars": 6
               }
             },
             {
@@ -516,7 +516,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:38:49.304Z",
+    "last_updated": "2026-08-24T17:04:14.905Z",
     "original_repository": "oleksis/awesome-textualize-projects",
     "original_repository_id": 581939421,
     "original_repository_sha": "4b59dff3221a74387eeb5eb4a81449f05b1b23f0",

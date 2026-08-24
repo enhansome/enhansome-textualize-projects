@@ -8,15 +8,15 @@
 
 # Awesome Textualize Projects with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,520 | 🐛 106 | 📅 2026-08-21 [<!--lint ignore no-dead-urls-->![GitHub Actions status | oleksis/awesome-textualize-projects](https://github.com/oleksis/awesome-textualize-projects/actions/workflows/lint.yml/badge.svg)](https://github.com/oleksis/awesome-textualize-projects/actions/workflows/lint.yml) ⭐ 115 | 🐛 6 | 📅 2024-03-18
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,550 | 🐛 106 | 📅 2026-08-21 [<!--lint ignore no-dead-urls-->![GitHub Actions status | oleksis/awesome-textualize-projects](https://github.com/oleksis/awesome-textualize-projects/actions/workflows/lint.yml/badge.svg)](https://github.com/oleksis/awesome-textualize-projects/actions/workflows/lint.yml) ⭐ 115 | 🐛 6 | 📅 2024-03-18
 
 > A curated list of awesome projects related to [Textualize].
 
 Textualize is responsible for creating frameworks / projects like:
 
-* [Rich](https://github.com/Textualize/rich) ⭐ 57,167 | 🐛 373 | 🌐 Python | 📅 2026-06-23:
+* [Rich](https://github.com/Textualize/rich) ⭐ 57,175 | 🐛 373 | 🌐 Python | 📅 2026-06-23:
   a Python library for rich text and beautiful formatting in the terminal.
-* [Textual](https://github.com/Textualize/textual) ⭐ 37,025 | 🐛 352 | 🌐 Python | 📅 2026-07-11:
+* [Textual](https://github.com/Textualize/textual) ⭐ 37,028 | 🐛 352 | 🌐 Python | 📅 2026-07-11:
   a TUI (Text User Interface) framework for Python inspired by modern web development.
 * [Rich CLI](https://github.com/Textualize/rich-cli) ⭐ 3,711 | 🐛 46 | 🌐 Python | 📅 2026-08-12:
   a command line toolbox for fancy output in the terminal
@@ -70,8 +70,8 @@ Textualize is responsible for creating frameworks / projects like:
 * [Markdown Browser](https://github.com/willmcgugan/textual-markdown) ⚠️ Archived - Markdown in the terminal.
 * [NoteSH](https://github.com/cvaniak/notesh) ⭐ 489 | 🐛 2 | 🌐 Python | 📅 2025-10-05 - A fully functional sticky notes App in your Terminal.
 * [Rexi](https://github.com/royreznik/rexi) ⭐ 395 | 🐛 10 | 🌐 Python | 📅 2026-06-23 - Terminal UI for Regex Testing.
-* [Django-TUI](https://github.com/anze3db/django-tui) ⭐ 295 | 🐛 1 | 🌐 Python | 📅 2024-10-16 - Inspect and run Django Commands in a text-based user interface (TUI).
-* [Autocomplete](https://github.com/darrenburns/textual-autocomplete) ⭐ 291 | 🐛 17 | 🌐 Python | 📅 2026-01-24 - Easily add autocomplete dropdowns to your Textual apps.
+* [Django-TUI](https://github.com/anze3db/django-tui) ⭐ 296 | 🐛 1 | 🌐 Python | 📅 2024-10-16 - Inspect and run Django Commands in a text-based user interface (TUI).
+* [Autocomplete](https://github.com/darrenburns/textual-autocomplete) ⭐ 292 | 🐛 17 | 🌐 Python | 📅 2026-01-24 - Easily add autocomplete dropdowns to your Textual apps.
 * [Logmerger](https://github.com/ptmcg/logmerger) ⭐ 261 | 🐛 4 | 🌐 Python | 📅 2025-11-15 - TUI utility to view multiple log files with merged timeline.
 * [Kupo](https://github.com/darrenburns/kupo) ⭐ 212 | 🐛 4 | 🌐 Python | 📅 2024-07-05 - A terminal file browser, kupo!
 * [Shira](https://github.com/darrenburns/shira) ⭐ 197 | 🐛 2 | 🌐 Python | 📅 2023-02-17 - The python inspector 🔍.
@@ -87,7 +87,7 @@ Textualize is responsible for creating frameworks / projects like:
 * [Jtree](https://github.com/oleksis/jtree) ⭐ 23 | 🐛 1 | 🌐 Python | 📅 2023-08-28 - A command line interface (CLI) for displaying JavaScript Object Notation (JSON) in a tree view.
 * [SSHaMan](https://github.com/cornyhorse/sshaman) ⭐ 20 | 🐛 10 | 🌐 Python | 📅 2026-02-27 - SSH Management.
 * [Conways Game of Life](https://github.com/thomascrha/textual-game-of-life) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2025-04-01 -  A implementation of Conway's game of life (cellular automata) in the terminal using textual.
-* [Palettepal](https://github.com/cdelker/palettepal) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2023-08-01 - Terminal-Based Color Editor and Palette Generator.
+* [Palettepal](https://github.com/cdelker/palettepal) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2023-08-01 - Terminal-Based Color Editor and Palette Generator.
 * [FivePyFive](https://github.com/davep/fivepyfive) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2023-02-17 - An annoying puzzle for the terminal; built with Textual.
 * [textual-plotext](https://pypi.org/project/textual-plotext/) - A Textual widget wrapper for the Plotext plotting library.
 * [Textual Query Sandbox](https://pypi.org/project/textual-query-sandbox/) - A simple tool for displaying terminal dimensions.
