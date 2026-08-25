@@ -15,7 +15,7 @@
             "last_commit": "2026-06-23T03:10:19Z",
             "owner": "Textualize",
             "repo": "rich",
-            "stars": 57211
+            "stars": 57231
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-07-11T06:02:34Z",
             "owner": "Textualize",
             "repo": "textual",
-            "stars": 37034
+            "stars": 37035
           }
         },
         {
@@ -83,7 +83,7 @@
                 "last_commit": "2024-08-01T06:51:47Z",
                 "owner": "Textualize",
                 "repo": "frogmouth",
-                "stars": 3272
+                "stars": 3270
               }
             },
             {
@@ -98,7 +98,7 @@
                 "last_commit": "2024-10-10T19:12:52Z",
                 "owner": "darrenburns",
                 "repo": "elia",
-                "stars": 2482
+                "stars": 2481
               }
             },
             {
@@ -173,7 +173,7 @@
                 "last_commit": "2024-10-18T09:50:15Z",
                 "owner": "darrenburns",
                 "repo": "rich-pixels",
-                "stars": 519
+                "stars": 520
               }
             },
             {
@@ -278,7 +278,7 @@
                 "last_commit": "2024-07-05T21:23:01Z",
                 "owner": "darrenburns",
                 "repo": "kupo",
-                "stars": 212
+                "stars": 213
               }
             },
             {
@@ -516,7 +516,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:32:34.504Z",
+    "last_updated": "2026-08-25T17:04:18.340Z",
     "original_repository": "oleksis/awesome-textualize-projects",
     "original_repository_id": 581939421,
     "original_repository_sha": "4b59dff3221a74387eeb5eb4a81449f05b1b23f0",
