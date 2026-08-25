@@ -15,7 +15,7 @@
             "last_commit": "2026-06-23T03:10:19Z",
             "owner": "Textualize",
             "repo": "rich",
-            "stars": 57175
+            "stars": 57211
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-07-11T06:02:34Z",
             "owner": "Textualize",
             "repo": "textual",
-            "stars": 37028
+            "stars": 37034
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-12T04:57:11Z",
             "owner": "Textualize",
             "repo": "rich-cli",
-            "stars": 3711
+            "stars": 3712
           }
         }
       ],
@@ -68,7 +68,7 @@
                 "last_commit": "2024-08-05T19:29:28Z",
                 "owner": "Textualize",
                 "repo": "toolong",
-                "stars": 3939
+                "stars": 3940
               }
             },
             {
@@ -83,7 +83,7 @@
                 "last_commit": "2024-08-01T06:51:47Z",
                 "owner": "Textualize",
                 "repo": "frogmouth",
-                "stars": 3271
+                "stars": 3272
               }
             },
             {
@@ -516,7 +516,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T17:04:14.905Z",
+    "last_updated": "2026-08-25T06:32:34.504Z",
     "original_repository": "oleksis/awesome-textualize-projects",
     "original_repository_id": 581939421,
     "original_repository_sha": "4b59dff3221a74387eeb5eb4a81449f05b1b23f0",
