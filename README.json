@@ -15,7 +15,7 @@
             "last_commit": "2026-06-23T03:10:19Z",
             "owner": "Textualize",
             "repo": "rich",
-            "stars": 57231
+            "stars": 57248
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-07-11T06:02:34Z",
             "owner": "Textualize",
             "repo": "textual",
-            "stars": 37035
+            "stars": 37052
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-12T04:57:11Z",
             "owner": "Textualize",
             "repo": "rich-cli",
-            "stars": 3712
+            "stars": 3714
           }
         }
       ],
@@ -68,7 +68,7 @@
                 "last_commit": "2024-08-05T19:29:28Z",
                 "owner": "Textualize",
                 "repo": "toolong",
-                "stars": 3940
+                "stars": 3941
               }
             },
             {
@@ -83,7 +83,7 @@
                 "last_commit": "2024-08-01T06:51:47Z",
                 "owner": "Textualize",
                 "repo": "frogmouth",
-                "stars": 3270
+                "stars": 3271
               }
             },
             {
@@ -98,7 +98,7 @@
                 "last_commit": "2024-10-10T19:12:52Z",
                 "owner": "darrenburns",
                 "repo": "elia",
-                "stars": 2481
+                "stars": 2482
               }
             },
             {
@@ -128,7 +128,7 @@
                 "last_commit": "2026-02-21T22:00:38Z",
                 "owner": "1j01",
                 "repo": "textual-paint",
-                "stars": 1121
+                "stars": 1122
               }
             },
             {
@@ -233,7 +233,7 @@
                 "last_commit": "2024-10-16T18:36:34Z",
                 "owner": "anze3db",
                 "repo": "django-tui",
-                "stars": 296
+                "stars": 295
               }
             },
             {
@@ -516,7 +516,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T17:04:18.340Z",
+    "last_updated": "2026-08-26T18:13:47.662Z",
     "original_repository": "oleksis/awesome-textualize-projects",
     "original_repository_id": 581939421,
     "original_repository_sha": "4b59dff3221a74387eeb5eb4a81449f05b1b23f0",
