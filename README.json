@@ -15,7 +15,7 @@
             "last_commit": "2026-06-23T03:10:19Z",
             "owner": "Textualize",
             "repo": "rich",
-            "stars": 57248
+            "stars": 57257
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-07-11T06:02:34Z",
             "owner": "Textualize",
             "repo": "textual",
-            "stars": 37052
+            "stars": 37065
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-12T04:57:11Z",
             "owner": "Textualize",
             "repo": "rich-cli",
-            "stars": 3714
+            "stars": 3716
           }
         }
       ],
@@ -68,7 +68,7 @@
                 "last_commit": "2024-08-05T19:29:28Z",
                 "owner": "Textualize",
                 "repo": "toolong",
-                "stars": 3941
+                "stars": 3942
               }
             },
             {
@@ -83,7 +83,7 @@
                 "last_commit": "2024-08-01T06:51:47Z",
                 "owner": "Textualize",
                 "repo": "frogmouth",
-                "stars": 3271
+                "stars": 3273
               }
             },
             {
@@ -113,7 +113,7 @@
                 "last_commit": "2026-08-03T13:43:54Z",
                 "owner": "PabloLec",
                 "repo": "RecoverPy",
-                "stars": 1785
+                "stars": 1784
               }
             },
             {
@@ -143,7 +143,7 @@
                 "last_commit": "2025-04-19T16:25:43Z",
                 "owner": "darrenburns",
                 "repo": "dunk",
-                "stars": 888
+                "stars": 889
               }
             },
             {
@@ -173,7 +173,7 @@
                 "last_commit": "2024-10-18T09:50:15Z",
                 "owner": "darrenburns",
                 "repo": "rich-pixels",
-                "stars": 520
+                "stars": 521
               }
             },
             {
@@ -218,7 +218,7 @@
                 "last_commit": "2026-06-23T09:13:39Z",
                 "owner": "royreznik",
                 "repo": "rexi",
-                "stars": 395
+                "stars": 394
               }
             },
             {
@@ -516,9 +516,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T18:13:47.662Z",
-    "original_repository": "oleksis/awesome-textualize-projects",
-    "original_repository_id": 581939421,
+    "last_updated": "2026-08-27T12:08:29.816Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 581939421,
+      "language": null,
+      "last_commit": "2024-03-18T02:18:36Z",
+      "owner": "oleksis",
+      "repo": "awesome-textualize-projects",
+      "stars": 116
+    },
     "original_repository_sha": "4b59dff3221a74387eeb5eb4a81449f05b1b23f0",
     "enhanced_repository": "enhansome/enhansome-textualize-projects",
     "enhanced_repository_description": null,
