@@ -15,7 +15,7 @@
             "last_commit": "2026-06-23T03:10:19Z",
             "owner": "Textualize",
             "repo": "rich",
-            "stars": 57257
+            "stars": 57263
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-07-11T06:02:34Z",
             "owner": "Textualize",
             "repo": "textual",
-            "stars": 37065
+            "stars": 37069
           }
         },
         {
@@ -98,7 +98,7 @@
                 "last_commit": "2024-10-10T19:12:52Z",
                 "owner": "darrenburns",
                 "repo": "elia",
-                "stars": 2482
+                "stars": 2483
               }
             },
             {
@@ -516,7 +516,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:08:29.816Z",
+    "last_updated": "2026-08-28T01:02:00.181Z",
     "original_repository_info": {
       "archived": false,
       "id": 581939421,
