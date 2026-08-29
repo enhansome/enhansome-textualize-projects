@@ -19,7 +19,7 @@
             "open_issues": 372,
             "owner": "Textualize",
             "repo": "rich",
-            "stars": 57271,
+            "stars": 57274,
             "topics": [
               "ansi-colors",
               "emoji",
@@ -57,7 +57,7 @@
             "open_issues": 352,
             "owner": "Textualize",
             "repo": "textual",
-            "stars": 37077,
+            "stars": 37081,
             "topics": [
               "cli",
               "framework",
@@ -916,7 +916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:57:26.517Z",
+    "last_updated": "2026-08-29T19:27:47.332Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects related to Textualize",
