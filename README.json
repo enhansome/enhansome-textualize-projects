@@ -15,8 +15,9 @@
             "last_commit": "2026-06-23T03:10:19Z",
             "owner": "Textualize",
             "repo": "rich",
-            "stars": 57263
-          }
+            "stars": 57270
+          },
+          "first_seen": "2026-08-29T00:36:37.041Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-07-11T06:02:34Z",
             "owner": "Textualize",
             "repo": "textual",
-            "stars": 37069
-          }
+            "stars": 37077
+          },
+          "first_seen": "2026-08-29T00:36:37.041Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "Textualize",
             "repo": "rich-cli",
             "stars": 3716
-          }
+          },
+          "first_seen": "2026-08-29T00:36:37.041Z"
         }
       ],
       "title": "Overview"
@@ -69,7 +72,8 @@
                 "owner": "Textualize",
                 "repo": "toolong",
                 "stars": 3942
-              }
+              },
+              "first_seen": "2026-08-29T00:36:37.041Z"
             },
             {
               "node_type": "item",
@@ -83,8 +87,9 @@
                 "last_commit": "2024-08-01T06:51:47Z",
                 "owner": "Textualize",
                 "repo": "frogmouth",
-                "stars": 3273
-              }
+                "stars": 3274
+              },
+              "first_seen": "2026-08-29T00:36:37.041Z"
             },
             {
               "node_type": "item",
@@ -99,7 +104,8 @@
                 "owner": "darrenburns",
                 "repo": "elia",
                 "stars": 2483
-              }
+              },
+              "first_seen": "2026-08-29T00:36:37.041Z"
             },
             {
               "node_type": "item",
@@ -114,7 +120,8 @@
                 "owner": "PabloLec",
                 "repo": "RecoverPy",
                 "stars": 1784
-              }
+              },
+              "first_seen": "2026-08-29T00:36:37.041Z"
             },
             {
               "node_type": "item",
@@ -129,7 +136,8 @@
                 "owner": "1j01",
                 "repo": "textual-paint",
                 "stars": 1122
-              }
+              },
+              "first_seen": "2026-08-29T00:36:37.041Z"
             },
             {
               "node_type": "item",
@@ -144,7 +152,8 @@
                 "owner": "darrenburns",
                 "repo": "dunk",
                 "stars": 889
-              }
+              },
+              "first_seen": "2026-08-29T00:36:37.041Z"
             },
             {
               "node_type": "item",
@@ -159,7 +168,8 @@
                 "owner": "eliasdorneles",
                 "repo": "upiano",
                 "stars": 792
-              }
+              },
+              "first_seen": "2026-08-29T00:36:37.041Z"
             },
             {
               "node_type": "item",
@@ -174,7 +184,8 @@
                 "owner": "darrenburns",
                 "repo": "rich-pixels",
                 "stars": 521
-              }
+              },
+              "first_seen": "2026-08-29T00:36:37.041Z"
             },
             {
               "node_type": "item",
@@ -189,7 +200,8 @@
                 "owner": "willmcgugan",
                 "repo": "textual-markdown",
                 "stars": 503
-              }
+              },
+              "first_seen": "2026-08-29T00:36:37.041Z"
             },
             {
               "node_type": "item",
@@ -204,7 +216,8 @@
                 "owner": "Cvaniak",
                 "repo": "NoteSH",
                 "stars": 489
-              }
+              },
+              "first_seen": "2026-08-29T00:36:37.041Z"
             },
             {
               "node_type": "item",
@@ -219,7 +232,8 @@
                 "owner": "royreznik",
                 "repo": "rexi",
                 "stars": 394
-              }
+              },
+              "first_seen": "2026-08-29T00:36:37.041Z"
             },
             {
               "node_type": "item",
@@ -234,7 +248,8 @@
                 "owner": "anze3db",
                 "repo": "django-tui",
                 "stars": 295
-              }
+              },
+              "first_seen": "2026-08-29T00:36:37.041Z"
             },
             {
               "node_type": "item",
@@ -249,7 +264,8 @@
                 "owner": "darrenburns",
                 "repo": "textual-autocomplete",
                 "stars": 292
-              }
+              },
+              "first_seen": "2026-08-29T00:36:37.041Z"
             },
             {
               "node_type": "item",
@@ -264,7 +280,8 @@
                 "owner": "ptmcg",
                 "repo": "logmerger",
                 "stars": 261
-              }
+              },
+              "first_seen": "2026-08-29T00:36:37.041Z"
             },
             {
               "node_type": "item",
@@ -279,7 +296,8 @@
                 "owner": "darrenburns",
                 "repo": "kupo",
                 "stars": 213
-              }
+              },
+              "first_seen": "2026-08-29T00:36:37.041Z"
             },
             {
               "node_type": "item",
@@ -294,7 +312,8 @@
                 "owner": "darrenburns",
                 "repo": "shira",
                 "stars": 197
-              }
+              },
+              "first_seen": "2026-08-29T00:36:37.041Z"
             },
             {
               "node_type": "item",
@@ -309,7 +328,8 @@
                 "owner": "mitosch",
                 "repo": "textual-terminal",
                 "stars": 141
-              }
+              },
+              "first_seen": "2026-08-29T00:36:37.041Z"
             },
             {
               "node_type": "item",
@@ -324,7 +344,8 @@
                 "owner": "adamviola",
                 "repo": "textual-imageview",
                 "stars": 138
-              }
+              },
+              "first_seen": "2026-08-29T00:36:37.041Z"
             },
             {
               "node_type": "item",
@@ -339,7 +360,8 @@
                 "owner": "eliasdorneles",
                 "repo": "usolitaire",
                 "stars": 103
-              }
+              },
+              "first_seen": "2026-08-29T00:36:37.041Z"
             },
             {
               "node_type": "item",
@@ -354,7 +376,8 @@
                 "owner": "davep",
                 "repo": "textual-fspicker",
                 "stars": 102
-              }
+              },
+              "first_seen": "2026-08-29T00:36:37.041Z"
             },
             {
               "node_type": "item",
@@ -369,7 +392,8 @@
                 "owner": "davep",
                 "repo": "textual-astview",
                 "stars": 100
-              }
+              },
+              "first_seen": "2026-08-29T00:36:37.041Z"
             },
             {
               "node_type": "item",
@@ -384,7 +408,8 @@
                 "owner": "koenvervloesem",
                 "repo": "humble-explorer",
                 "stars": 84
-              }
+              },
+              "first_seen": "2026-08-29T00:36:37.041Z"
             },
             {
               "node_type": "item",
@@ -399,7 +424,8 @@
                 "owner": "davep",
                 "repo": "textual-canvas",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-29T00:36:37.041Z"
             },
             {
               "node_type": "item",
@@ -414,7 +440,8 @@
                 "owner": "mitosch",
                 "repo": "textual-select",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-29T00:36:37.041Z"
             },
             {
               "node_type": "item",
@@ -429,7 +456,8 @@
                 "owner": "mitosch",
                 "repo": "textual-datepicker",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-29T00:36:37.041Z"
             },
             {
               "node_type": "item",
@@ -444,7 +472,8 @@
                 "owner": "oleksis",
                 "repo": "jtree",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-29T00:36:37.041Z"
             },
             {
               "node_type": "item",
@@ -459,7 +488,8 @@
                 "owner": "cornyhorse-tuis",
                 "repo": "sshaman",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-29T00:36:37.041Z"
             },
             {
               "node_type": "item",
@@ -474,7 +504,8 @@
                 "owner": "thomascrha",
                 "repo": "textual-game-of-life",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-29T00:36:37.041Z"
             },
             {
               "node_type": "item",
@@ -489,7 +520,8 @@
                 "owner": "cdelker",
                 "repo": "palettepal",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T00:36:37.041Z"
             },
             {
               "node_type": "item",
@@ -504,7 +536,8 @@
                 "owner": "davep",
                 "repo": "fivepyfive",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T00:36:37.041Z"
             }
           ],
           "description": null,
@@ -516,7 +549,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T01:02:00.181Z",
+    "last_updated": "2026-08-29T00:36:37.041Z",
     "original_repository_info": {
       "archived": false,
       "id": 581939421,
