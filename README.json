@@ -10,12 +10,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rich is a Python library for rich text and beautiful formatting in the terminal.",
+            "homepage": "https://rich.readthedocs.io/en/latest/",
             "id": 220809393,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-23T03:10:19Z",
+            "open_issues": 372,
             "owner": "Textualize",
             "repo": "rich",
-            "stars": 57270
+            "stars": 57271,
+            "topics": [
+              "ansi-colors",
+              "emoji",
+              "markdown",
+              "progress-bar",
+              "progress-bar-python",
+              "python",
+              "python-library",
+              "python3",
+              "rich",
+              "syntax-highlighting",
+              "tables",
+              "terminal",
+              "terminal-color",
+              "traceback",
+              "tracebacks-rich",
+              "tui"
+            ]
           },
           "first_seen": "2026-08-29T00:36:37.041Z"
         },
@@ -26,12 +48,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.",
+            "homepage": "https://textual.textualize.io/",
             "id": 355959597,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-11T06:02:34Z",
+            "open_issues": 352,
             "owner": "Textualize",
             "repo": "textual",
-            "stars": 37077
+            "stars": 37077,
+            "topics": [
+              "cli",
+              "framework",
+              "python",
+              "rich",
+              "terminal",
+              "tui"
+            ]
           },
           "first_seen": "2026-08-29T00:36:37.041Z"
         },
@@ -42,12 +76,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rich-cli is a command line toolbox for fancy output in the terminal",
+            "homepage": "https://www.textualize.io",
             "id": 450811921,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-12T04:57:11Z",
+            "open_issues": 46,
             "owner": "Textualize",
             "repo": "rich-cli",
-            "stars": 3716
+            "stars": 3716,
+            "topics": [
+              "markdown",
+              "rich",
+              "syntax-highlighting",
+              "terminal",
+              "terminal-colors"
+            ]
           },
           "first_seen": "2026-08-29T00:36:37.041Z"
         }
@@ -66,12 +111,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A terminal application to view, tail, merge, and search log files (plus JSONL).",
+                "homepage": "https://www.textualize.io/",
                 "id": 740153592,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-08-05T19:29:28Z",
+                "open_issues": 37,
                 "owner": "Textualize",
                 "repo": "toolong",
-                "stars": 3942
+                "stars": 3942,
+                "topics": [
+                  "jsonl",
+                  "rich",
+                  "terminal",
+                  "terminal-based",
+                  "textual",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-29T00:36:37.041Z"
             },
@@ -82,12 +139,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Markdown browser for your terminal",
+                "homepage": "https://www.textualize.io/",
                 "id": 622876059,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-08-01T06:51:47Z",
+                "open_issues": 46,
                 "owner": "Textualize",
                 "repo": "frogmouth",
-                "stars": 3274
+                "stars": 3274,
+                "topics": [
+                  "markdown",
+                  "markdown-viewer",
+                  "python",
+                  "terminal-based",
+                  "textual",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-29T00:36:37.041Z"
             },
@@ -98,12 +167,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more.",
+                "homepage": null,
                 "id": 636427933,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-10-10T19:12:52Z",
+                "open_issues": 25,
                 "owner": "darrenburns",
                 "repo": "elia",
-                "stars": 2483
+                "stars": 2483,
+                "topics": [
+                  "ai",
+                  "chatgpt",
+                  "claude",
+                  "gemma",
+                  "gpt",
+                  "large-language-models",
+                  "llama",
+                  "llama3",
+                  "llm",
+                  "mistral",
+                  "mistral-ai",
+                  "mixtral",
+                  "ollama",
+                  "ollama-client",
+                  "ollama-interface",
+                  "phi-3",
+                  "python",
+                  "terminal",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-29T00:36:37.041Z"
             },
@@ -114,12 +208,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal",
+                "homepage": null,
                 "id": 341931044,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-03T13:43:54Z",
+                "open_issues": 4,
                 "owner": "PabloLec",
                 "repo": "RecoverPy",
-                "stars": 1784
+                "stars": 1785,
+                "topics": [
+                  "cli",
+                  "console",
+                  "cybersecurity",
+                  "data",
+                  "data-recovery",
+                  "files",
+                  "forensics",
+                  "hacking",
+                  "linux",
+                  "macos",
+                  "pentesting",
+                  "python",
+                  "python3",
+                  "recovery",
+                  "search",
+                  "search-interface",
+                  "terminal",
+                  "textual",
+                  "tool",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-29T00:36:37.041Z"
             },
@@ -130,12 +250,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":art: MS Paint in your terminal.",
+                "homepage": "https://pypi.org/project/textual-paint/",
                 "id": 626145619,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-02-21T22:00:38Z",
+                "open_issues": 10,
                 "owner": "1j01",
                 "repo": "textual-paint",
-                "stars": 1122
+                "stars": 1122,
+                "topics": [
+                  "ansi-art",
+                  "ansi-editor",
+                  "artscene",
+                  "ascii-art",
+                  "bbs",
+                  "drawing",
+                  "image",
+                  "image-editor",
+                  "irc",
+                  "mirc",
+                  "mspaint",
+                  "paint",
+                  "pixel-art",
+                  "pixel-editor",
+                  "terminal",
+                  "text-art",
+                  "textual",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-29T00:36:37.041Z"
             },
@@ -146,12 +290,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Prettier git diffs in the terminal  🎨",
+                "homepage": null,
                 "id": 477155901,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-04-19T16:25:43Z",
+                "open_issues": 22,
                 "owner": "darrenburns",
                 "repo": "dunk",
-                "stars": 889
+                "stars": 889,
+                "topics": [
+                  "cli",
+                  "diff",
+                  "git",
+                  "terminal"
+                ]
               },
               "first_seen": "2026-08-29T00:36:37.041Z"
             },
@@ -162,12 +316,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Piano in your terminal",
+                "homepage": null,
                 "id": 98796916,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-07-09T22:51:39Z",
+                "open_issues": 5,
                 "owner": "eliasdorneles",
                 "repo": "upiano",
-                "stars": 792
+                "stars": 793,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:36:37.041Z"
             },
@@ -178,12 +337,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Rich-compatible library for writing pixel images and ASCII art to the terminal.",
+                "homepage": null,
                 "id": 563115618,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-10-18T09:50:15Z",
+                "open_issues": 3,
                 "owner": "darrenburns",
                 "repo": "rich-pixels",
-                "stars": 521
+                "stars": 521,
+                "topics": [
+                  "ascii",
+                  "ascii-art",
+                  "console",
+                  "rich",
+                  "terminal",
+                  "textual"
+                ]
               },
               "first_seen": "2026-08-29T00:36:37.041Z"
             },
@@ -194,12 +365,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 578174780,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-03-07T09:46:33Z",
+                "open_issues": 11,
                 "owner": "willmcgugan",
                 "repo": "textual-markdown",
-                "stars": 503
+                "stars": 503,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:36:37.041Z"
             },
@@ -210,12 +386,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NoteSH fully functional sticky notes App in your Terminal! ",
+                "homepage": null,
                 "id": 596770813,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-10-05T20:39:27Z",
+                "open_issues": 2,
                 "owner": "Cvaniak",
                 "repo": "NoteSH",
-                "stars": 489
+                "stars": 489,
+                "topics": [
+                  "colorful",
+                  "console",
+                  "diagrams",
+                  "mouse",
+                  "note",
+                  "notepad",
+                  "python",
+                  "python3",
+                  "reactive",
+                  "terminal",
+                  "textual",
+                  "textualize",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-29T00:36:37.041Z"
             },
@@ -226,12 +421,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Terminal UI for Regex Testing",
+                "homepage": null,
                 "id": 751985100,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-23T09:13:39Z",
+                "open_issues": 10,
                 "owner": "royreznik",
                 "repo": "rexi",
-                "stars": 394
+                "stars": 394,
+                "topics": [
+                  "python",
+                  "regex",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-29T00:36:37.041Z"
             },
@@ -242,12 +446,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Inspect and run Django Commands in a text-based user interface (TUI)",
+                "homepage": null,
                 "id": 682178106,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-10-16T18:36:34Z",
+                "open_issues": 1,
                 "owner": "anze3db",
                 "repo": "django-tui",
-                "stars": 295
+                "stars": 295,
+                "topics": [
+                  "command-line",
+                  "django",
+                  "python",
+                  "textual",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-29T00:36:37.041Z"
             },
@@ -258,12 +473,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Easily add autocomplete dropdowns to your Textual apps",
+                "homepage": null,
                 "id": 569361959,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-01-24T00:45:26Z",
+                "open_issues": 17,
                 "owner": "darrenburns",
                 "repo": "textual-autocomplete",
-                "stars": 292
+                "stars": 292,
+                "topics": [
+                  "autocomplete",
+                  "dropdown",
+                  "library",
+                  "python",
+                  "terminal",
+                  "textual",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-29T00:36:37.041Z"
             },
@@ -274,12 +502,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TUI utility to view multiple log files with merged timeline",
+                "homepage": null,
                 "id": 638491808,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-11-15T15:11:28Z",
+                "open_issues": 4,
                 "owner": "ptmcg",
                 "repo": "logmerger",
-                "stars": 261
+                "stars": 261,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:36:37.041Z"
             },
@@ -290,12 +523,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A terminal file browser, kupo!",
+                "homepage": null,
                 "id": 479816830,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-07-05T21:23:01Z",
+                "open_issues": 4,
                 "owner": "darrenburns",
                 "repo": "kupo",
-                "stars": 213
+                "stars": 213,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:36:37.041Z"
             },
@@ -306,12 +544,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "the python inspector 🔍",
+                "homepage": null,
                 "id": 564751910,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-02-17T23:18:23Z",
+                "open_issues": 2,
                 "owner": "darrenburns",
                 "repo": "shira",
-                "stars": 197
+                "stars": 197,
+                "topics": [
+                  "developer-tools",
+                  "python",
+                  "terminal",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-29T00:36:37.041Z"
             },
@@ -322,12 +570,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A terminal emulator widget for Textual.",
+                "homepage": null,
                 "id": 593529959,
                 "language": "Python",
+                "license": "LGPL-3.0",
                 "last_commit": "2024-06-27T13:36:52Z",
+                "open_issues": 11,
                 "owner": "mitosch",
                 "repo": "textual-terminal",
-                "stars": 141
+                "stars": 141,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:36:37.041Z"
             },
@@ -338,12 +591,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple terminal-based image viewer.",
+                "homepage": null,
                 "id": 584296892,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-01-08T05:18:54Z",
+                "open_issues": 5,
                 "owner": "adamviola",
                 "repo": "textual-imageview",
-                "stars": 138
+                "stars": 138,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:36:37.041Z"
             },
@@ -354,12 +612,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Solitaire in your terminal, powered by Unicode and https://textual.textualize.io/",
+                "homepage": null,
                 "id": 88522112,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-10-04T13:24:12Z",
+                "open_issues": 2,
                 "owner": "eliasdorneles",
                 "repo": "usolitaire",
-                "stars": 103
+                "stars": 103,
+                "topics": [
+                  "python",
+                  "terminal-app",
+                  "terminal-game",
+                  "textual-framework",
+                  "tui",
+                  "unicode-box-drawing"
+                ]
               },
               "first_seen": "2026-08-29T00:36:37.041Z"
             },
@@ -370,12 +640,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Textual widget library for picking things in the filesystem",
+                "homepage": "https://textual-fspicker.davep.dev/",
                 "id": 639619331,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-12T08:30:42Z",
+                "open_issues": 8,
                 "owner": "davep",
                 "repo": "textual-fspicker",
-                "stars": 102
+                "stars": 102,
+                "topics": [
+                  "filesystem",
+                  "filesystem-library",
+                  "framework",
+                  "library",
+                  "python",
+                  "terminal",
+                  "textual",
+                  "textual-dialog",
+                  "textual-framework",
+                  "textual-widget",
+                  "toolkit",
+                  "tui",
+                  "ui"
+                ]
               },
               "first_seen": "2026-08-29T00:36:37.041Z"
             },
@@ -386,12 +675,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A Textual-based Python AST viewing widget library and application",
+                "homepage": null,
                 "id": 580174697,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-07-15T10:51:02Z",
+                "open_issues": 0,
                 "owner": "davep",
                 "repo": "textual-astview",
-                "stars": 100
+                "stars": 100,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:36:37.041Z"
             },
@@ -402,12 +696,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cross-platform, command-line and human-friendly Bluetooth Low Energy scanner",
+                "homepage": "https://humble-explorer.readthedocs.io",
                 "id": 572942538,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-11-25T18:19:50Z",
+                "open_issues": 0,
                 "owner": "koenvervloesem",
                 "repo": "humble-explorer",
-                "stars": 84
+                "stars": 84,
+                "topics": [
+                  "ble",
+                  "ble-scanner",
+                  "bleak",
+                  "bluetooth",
+                  "bluetooth-le",
+                  "bluetooth-low-energy",
+                  "cli",
+                  "python",
+                  "python3",
+                  "textual",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-29T00:36:37.041Z"
             },
@@ -418,12 +729,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple character-based canvas widget for use with Textual.",
+                "homepage": "http://textual-canvas.davep.dev/",
                 "id": 618910334,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-02-06T16:37:43Z",
+                "open_issues": 1,
                 "owner": "davep",
                 "repo": "textual-canvas",
-                "stars": 59
+                "stars": 59,
+                "topics": [
+                  "canvas",
+                  "drawing",
+                  "plotting",
+                  "python",
+                  "python-library",
+                  "python3",
+                  "terminal",
+                  "textual",
+                  "textual-widget",
+                  "widget"
+                ]
               },
               "first_seen": "2026-08-29T00:36:37.041Z"
             },
@@ -434,12 +761,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple drop-down (select) for textual with an optional search functionality",
+                "homepage": null,
                 "id": 578951739,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-06-12T13:23:37Z",
+                "open_issues": 0,
                 "owner": "mitosch",
                 "repo": "textual-select",
-                "stars": 48
+                "stars": 48,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:36:37.041Z"
             },
@@ -450,12 +782,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A datepicker for textual.",
+                "homepage": null,
                 "id": 583276030,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-04-25T09:50:37Z",
+                "open_issues": 2,
                 "owner": "mitosch",
                 "repo": "textual-datepicker",
-                "stars": 37
+                "stars": 37,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:36:37.041Z"
             },
@@ -466,12 +803,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "jtree is a command line interface (CLI) for displaying JavaScript Object Notation (JSON) in a tree view",
+                "homepage": null,
                 "id": 576880150,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-08-28T19:11:40Z",
+                "open_issues": 1,
                 "owner": "oleksis",
                 "repo": "jtree",
-                "stars": 23
+                "stars": 23,
+                "topics": [
+                  "explorer",
+                  "json",
+                  "tui",
+                  "viewer"
+                ]
               },
               "first_seen": "2026-08-29T00:36:37.041Z"
             },
@@ -482,12 +829,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 726652908,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-02-27T12:39:29Z",
+                "open_issues": 10,
                 "owner": "cornyhorse-tuis",
                 "repo": "sshaman",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:36:37.041Z"
             },
@@ -498,12 +850,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A implementation of Conway's game of life (cellular automata) in the terminal using textual.",
+                "homepage": null,
                 "id": 686345601,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-04-01T10:19:13Z",
+                "open_issues": 0,
                 "owner": "thomascrha",
                 "repo": "textual-game-of-life",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:36:37.041Z"
             },
@@ -514,12 +871,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Terminal-Based Color Editor and Palette Generator",
+                "homepage": null,
                 "id": 672710664,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-08-01T00:57:11Z",
+                "open_issues": 0,
                 "owner": "cdelker",
                 "repo": "palettepal",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:36:37.041Z"
             },
@@ -530,12 +892,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An annoying puzzle for the terminal; built with Textual",
+                "homepage": null,
                 "id": 549465345,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2023-02-17T14:58:07Z",
+                "open_issues": 0,
                 "owner": "davep",
                 "repo": "fivepyfive",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:36:37.041Z"
             }
@@ -549,15 +916,23 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:36:37.041Z",
+    "last_updated": "2026-08-29T04:57:26.517Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome projects related to Textualize",
+      "homepage": "https://oleksis.github.io/awesome-textualize-projects/",
       "id": 581939421,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2024-03-18T02:18:36Z",
+      "open_issues": 7,
       "owner": "oleksis",
       "repo": "awesome-textualize-projects",
-      "stars": 116
+      "stars": 116,
+      "topics": [
+        "awesome",
+        "awesome-list"
+      ]
     },
     "original_repository_sha": "4b59dff3221a74387eeb5eb4a81449f05b1b23f0",
     "enhanced_repository": "enhansome/enhansome-textualize-projects",
