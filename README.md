@@ -8,15 +8,15 @@
 
 # Awesome Textualize Projects with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 501,708 | 🐛 105 | 📅 2026-08-21 [<!--lint ignore no-dead-urls-->![GitHub Actions status | oleksis/awesome-textualize-projects](https://github.com/oleksis/awesome-textualize-projects/actions/workflows/lint.yml/badge.svg)](https://github.com/oleksis/awesome-textualize-projects/actions/workflows/lint.yml) ⭐ 116 | 🐛 7 | 📅 2024-03-18
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 501,993 | 🐛 105 | 📅 2026-08-21 [<!--lint ignore no-dead-urls-->![GitHub Actions status | oleksis/awesome-textualize-projects](https://github.com/oleksis/awesome-textualize-projects/actions/workflows/lint.yml/badge.svg)](https://github.com/oleksis/awesome-textualize-projects/actions/workflows/lint.yml) ⭐ 116 | 🐛 7 | 📅 2024-03-18
 
 > A curated list of awesome projects related to [Textualize].
 
 Textualize is responsible for creating frameworks / projects like:
 
-* [Rich](https://github.com/Textualize/rich) ⭐ 57,291 | 🐛 372 | 🌐 Python | 📅 2026-06-23:
+* [Rich](https://github.com/Textualize/rich) ⭐ 57,298 | 🐛 372 | 🌐 Python | 📅 2026-06-23:
   a Python library for rich text and beautiful formatting in the terminal.
-* [Textual](https://github.com/Textualize/textual) ⭐ 37,104 | 🐛 353 | 🌐 Python | 📅 2026-07-11:
+* [Textual](https://github.com/Textualize/textual) ⭐ 37,109 | 🐛 354 | 🌐 Python | 📅 2026-07-11:
   a TUI (Text User Interface) framework for Python inspired by modern web development.
 * [Rich CLI](https://github.com/Textualize/rich-cli) ⭐ 3,716 | 🐛 46 | 🌐 Python | 📅 2026-08-12:
   a command line toolbox for fancy output in the terminal
@@ -59,14 +59,14 @@ Textualize is responsible for creating frameworks / projects like:
 
 ### Third Party Applications
 
-* [Toolong](https://github.com/Textualize/toolong) ⭐ 3,943 | 🐛 37 | 🌐 Python | 📅 2024-08-05 - A terminal application to view, tail, merge, and search log files (plus JSONL).
-* [Frogmouth](https://github.com/Textualize/frogmouth) ⭐ 3,275 | 🐛 46 | 🌐 Python | 📅 2024-08-01 - A Markdown browser for your terminal.
+* [Toolong](https://github.com/Textualize/toolong) ⭐ 3,942 | 🐛 37 | 🌐 Python | 📅 2024-08-05 - A terminal application to view, tail, merge, and search log files (plus JSONL).
+* [Frogmouth](https://github.com/Textualize/frogmouth) ⭐ 3,276 | 🐛 46 | 🌐 Python | 📅 2024-08-01 - A Markdown browser for your terminal.
 * [Elia](https://github.com/darrenburns/elia) ⭐ 2,483 | 🐛 25 | 🌐 Python | 📅 2024-10-10 -  A terminal ChatGPT client built with Textual.
-* [RecoverPy](https://github.com/PabloLec/RecoverPy) ⭐ 1,786 | 🐛 4 | 🌐 Python | 📅 2026-08-03 - Interactively find and recover deleted or overwritten files from your terminal.
+* [RecoverPy](https://github.com/PabloLec/RecoverPy) ⭐ 1,784 | 🐛 4 | 🌐 Python | 📅 2026-08-03 - Interactively find and recover deleted or overwritten files from your terminal.
 * [Pain](https://github.com/1j01/textual-paint) ⭐ 1,122 | 🐛 10 | 🌐 Python | 📅 2026-02-21 - 🎨 MS Paint.<!--lint ignore no-repeat-punctuation-->.<!--lint ignore no-repeat-punctuation-->. in your terminal.
 * [Dunk](https://github.com/darrenburns/dunk) ⭐ 889 | 🐛 22 | 🌐 Python | 📅 2025-04-19 - Prettier git diffs in the terminal 🎨.
 * [Upiano](https://github.com/eliasdorneles/upiano) ⭐ 793 | 🐛 5 | 🌐 Python | 📅 2025-07-09 - A Piano in your terminal.
-* [Rich Pixels](https://github.com/darrenburns/rich-pixels) ⭐ 521 | 🐛 3 | 🌐 Python | 📅 2024-10-18 - A Rich-compatible library for writing pixel images and ASCII art to the terminal.
+* [Rich Pixels](https://github.com/darrenburns/rich-pixels) ⭐ 522 | 🐛 3 | 🌐 Python | 📅 2024-10-18 - A Rich-compatible library for writing pixel images and ASCII art to the terminal.
 * [Markdown Browser](https://github.com/willmcgugan/textual-markdown) ⚠️ Archived - Markdown in the terminal.
 * [NoteSH](https://github.com/cvaniak/notesh) ⭐ 489 | 🐛 2 | 🌐 Python | 📅 2025-10-05 - A fully functional sticky notes App in your Terminal.
 * [Rexi](https://github.com/royreznik/rexi) ⭐ 394 | 🐛 10 | 🌐 Python | 📅 2026-06-23 - Terminal UI for Regex Testing.
@@ -75,7 +75,7 @@ Textualize is responsible for creating frameworks / projects like:
 * [Logmerger](https://github.com/ptmcg/logmerger) ⭐ 261 | 🐛 4 | 🌐 Python | 📅 2025-11-15 - TUI utility to view multiple log files with merged timeline.
 * [Kupo](https://github.com/darrenburns/kupo) ⭐ 213 | 🐛 4 | 🌐 Python | 📅 2024-07-05 - A terminal file browser, kupo!
 * [Shira](https://github.com/darrenburns/shira) ⭐ 197 | 🐛 2 | 🌐 Python | 📅 2023-02-17 - The python inspector 🔍.
-* [Terminal](https://github.com/mitosch/textual-terminal) ⭐ 141 | 🐛 11 | 🌐 Python | 📅 2024-06-27 - A terminal emulator widget for Textual.
+* [Terminal](https://github.com/mitosch/textual-terminal) ⭐ 142 | 🐛 11 | 🌐 Python | 📅 2024-06-27 - A terminal emulator widget for Textual.
 * [Imageview](https://github.com/adamviola/textual-imageview) ⭐ 138 | 🐛 5 | 🌐 Python | 📅 2023-01-08 - A simple terminal-based image viewer.
 * [Usolitaire](https://github.com/eliasdorneles/usolitaire) ⭐ 103 | 🐛 2 | 🌐 Python | 📅 2025-10-04 - Solitaire in your terminal, powered by Unicode.
 * [Fspicker](https://github.com/davep/textual-fspicker) ⭐ 102 | 🐛 8 | 🌐 Python | 📅 2026-08-12 - A Textual widget library for picking things in the filesystem.
@@ -104,4 +104,4 @@ Textualize is responsible for creating frameworks / projects like:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._

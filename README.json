@@ -19,7 +19,7 @@
             "open_issues": 372,
             "owner": "Textualize",
             "repo": "rich",
-            "stars": 57291,
+            "stars": 57298,
             "topics": [
               "ansi-colors",
               "emoji",
@@ -54,10 +54,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-07-11T06:02:34Z",
-            "open_issues": 353,
+            "open_issues": 354,
             "owner": "Textualize",
             "repo": "textual",
-            "stars": 37104,
+            "stars": 37109,
             "topics": [
               "cli",
               "framework",
@@ -120,7 +120,7 @@
                 "open_issues": 37,
                 "owner": "Textualize",
                 "repo": "toolong",
-                "stars": 3943,
+                "stars": 3942,
                 "topics": [
                   "jsonl",
                   "rich",
@@ -148,7 +148,7 @@
                 "open_issues": 46,
                 "owner": "Textualize",
                 "repo": "frogmouth",
-                "stars": 3275,
+                "stars": 3276,
                 "topics": [
                   "markdown",
                   "markdown-viewer",
@@ -217,7 +217,7 @@
                 "open_issues": 4,
                 "owner": "PabloLec",
                 "repo": "RecoverPy",
-                "stars": 1786,
+                "stars": 1784,
                 "topics": [
                   "cli",
                   "console",
@@ -346,7 +346,7 @@
                 "open_issues": 3,
                 "owner": "darrenburns",
                 "repo": "rich-pixels",
-                "stars": 521,
+                "stars": 522,
                 "topics": [
                   "ascii",
                   "ascii-art",
@@ -579,7 +579,7 @@
                 "open_issues": 11,
                 "owner": "mitosch",
                 "repo": "textual-terminal",
-                "stars": 141,
+                "stars": 142,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:36:37.041Z"
@@ -916,7 +916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T21:32:39.561Z",
+    "last_updated": "2026-09-01T19:27:49.728Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects related to Textualize",
