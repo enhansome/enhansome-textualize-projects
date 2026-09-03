@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-06-23T03:10:19Z",
-            "open_issues": 372,
+            "open_issues": 374,
             "owner": "Textualize",
             "repo": "rich",
-            "stars": 57306,
+            "stars": 57316,
             "topics": [
               "ansi-colors",
               "emoji",
@@ -54,10 +54,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-07-11T06:02:34Z",
-            "open_issues": 356,
+            "open_issues": 357,
             "owner": "Textualize",
             "repo": "textual",
-            "stars": 37115,
+            "stars": 37131,
             "topics": [
               "cli",
               "framework",
@@ -120,7 +120,7 @@
                 "open_issues": 37,
                 "owner": "Textualize",
                 "repo": "toolong",
-                "stars": 3942,
+                "stars": 3943,
                 "topics": [
                   "jsonl",
                   "rich",
@@ -217,7 +217,7 @@
                 "open_issues": 4,
                 "owner": "PabloLec",
                 "repo": "RecoverPy",
-                "stars": 1784,
+                "stars": 1785,
                 "topics": [
                   "cli",
                   "console",
@@ -259,7 +259,7 @@
                 "open_issues": 10,
                 "owner": "1j01",
                 "repo": "textual-paint",
-                "stars": 1122,
+                "stars": 1123,
                 "topics": [
                   "ansi-art",
                   "ansi-editor",
@@ -916,7 +916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T19:26:34.103Z",
+    "last_updated": "2026-09-03T19:21:22.419Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects related to Textualize",
