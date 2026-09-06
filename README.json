@@ -19,7 +19,7 @@
             "open_issues": 375,
             "owner": "Textualize",
             "repo": "rich",
-            "stars": 57323,
+            "stars": 57334,
             "topics": [
               "ansi-colors",
               "emoji",
@@ -57,7 +57,7 @@
             "open_issues": 358,
             "owner": "Textualize",
             "repo": "textual",
-            "stars": 37145,
+            "stars": 37158,
             "topics": [
               "cli",
               "framework",
@@ -120,7 +120,7 @@
                 "open_issues": 37,
                 "owner": "Textualize",
                 "repo": "toolong",
-                "stars": 3944,
+                "stars": 3945,
                 "topics": [
                   "jsonl",
                   "rich",
@@ -176,7 +176,7 @@
                 "open_issues": 25,
                 "owner": "darrenburns",
                 "repo": "elia",
-                "stars": 2483,
+                "stars": 2482,
                 "topics": [
                   "ai",
                   "chatgpt",
@@ -217,7 +217,7 @@
                 "open_issues": 4,
                 "owner": "PabloLec",
                 "repo": "RecoverPy",
-                "stars": 1785,
+                "stars": 1788,
                 "topics": [
                   "cli",
                   "console",
@@ -916,7 +916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T18:28:46.967Z",
+    "last_updated": "2026-09-06T18:29:29.409Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects related to Textualize",
