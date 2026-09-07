@@ -19,7 +19,7 @@
             "open_issues": 375,
             "owner": "Textualize",
             "repo": "rich",
-            "stars": 57334,
+            "stars": 57338,
             "topics": [
               "ansi-colors",
               "emoji",
@@ -54,10 +54,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-07-11T06:02:34Z",
-            "open_issues": 358,
+            "open_issues": 359,
             "owner": "Textualize",
             "repo": "textual",
-            "stars": 37158,
+            "stars": 37168,
             "topics": [
               "cli",
               "framework",
@@ -85,7 +85,7 @@
             "open_issues": 46,
             "owner": "Textualize",
             "repo": "rich-cli",
-            "stars": 3715,
+            "stars": 3719,
             "topics": [
               "markdown",
               "rich",
@@ -148,7 +148,7 @@
                 "open_issues": 46,
                 "owner": "Textualize",
                 "repo": "frogmouth",
-                "stars": 3280,
+                "stars": 3279,
                 "topics": [
                   "markdown",
                   "markdown-viewer",
@@ -374,7 +374,7 @@
                 "open_issues": 11,
                 "owner": "willmcgugan",
                 "repo": "textual-markdown",
-                "stars": 503,
+                "stars": 502,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:36:37.041Z"
@@ -455,7 +455,7 @@
                 "open_issues": 1,
                 "owner": "anze3db",
                 "repo": "django-tui",
-                "stars": 295,
+                "stars": 296,
                 "topics": [
                   "command-line",
                   "django",
@@ -916,7 +916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T18:29:29.409Z",
+    "last_updated": "2026-09-07T20:04:18.108Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects related to Textualize",
