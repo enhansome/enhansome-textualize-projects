@@ -19,7 +19,7 @@
             "open_issues": 374,
             "owner": "Textualize",
             "repo": "rich",
-            "stars": 57344,
+            "stars": 57342,
             "topics": [
               "ansi-colors",
               "emoji",
@@ -57,7 +57,7 @@
             "open_issues": 358,
             "owner": "Textualize",
             "repo": "textual",
-            "stars": 37174,
+            "stars": 37179,
             "topics": [
               "cli",
               "framework",
@@ -148,7 +148,7 @@
                 "open_issues": 46,
                 "owner": "Textualize",
                 "repo": "frogmouth",
-                "stars": 3279,
+                "stars": 3283,
                 "topics": [
                   "markdown",
                   "markdown-viewer",
@@ -176,7 +176,7 @@
                 "open_issues": 25,
                 "owner": "darrenburns",
                 "repo": "elia",
-                "stars": 2482,
+                "stars": 2480,
                 "topics": [
                   "ai",
                   "chatgpt",
@@ -217,7 +217,7 @@
                 "open_issues": 4,
                 "owner": "PabloLec",
                 "repo": "RecoverPy",
-                "stars": 1788,
+                "stars": 1787,
                 "topics": [
                   "cli",
                   "console",
@@ -374,7 +374,7 @@
                 "open_issues": 11,
                 "owner": "willmcgugan",
                 "repo": "textual-markdown",
-                "stars": 502,
+                "stars": 501,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:36:37.041Z"
@@ -395,7 +395,7 @@
                 "open_issues": 2,
                 "owner": "Cvaniak",
                 "repo": "NoteSH",
-                "stars": 489,
+                "stars": 488,
                 "topics": [
                   "colorful",
                   "console",
@@ -916,7 +916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T19:29:23.286Z",
+    "last_updated": "2026-09-09T19:21:14.062Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects related to Textualize",
