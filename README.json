@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-06-23T03:10:19Z",
-            "open_issues": 374,
+            "open_issues": 376,
             "owner": "Textualize",
             "repo": "rich",
-            "stars": 57369,
+            "stars": 57371,
             "topics": [
               "ansi-colors",
               "emoji",
@@ -57,7 +57,7 @@
             "open_issues": 359,
             "owner": "Textualize",
             "repo": "textual",
-            "stars": 37234,
+            "stars": 37248,
             "topics": [
               "cli",
               "framework",
@@ -85,7 +85,7 @@
             "open_issues": 47,
             "owner": "Textualize",
             "repo": "rich-cli",
-            "stars": 3721,
+            "stars": 3722,
             "topics": [
               "markdown",
               "rich",
@@ -176,7 +176,7 @@
                 "open_issues": 25,
                 "owner": "darrenburns",
                 "repo": "elia",
-                "stars": 2479,
+                "stars": 2478,
                 "topics": [
                   "ai",
                   "chatgpt",
@@ -259,7 +259,7 @@
                 "open_issues": 10,
                 "owner": "1j01",
                 "repo": "textual-paint",
-                "stars": 1123,
+                "stars": 1122,
                 "topics": [
                   "ansi-art",
                   "ansi-editor",
@@ -838,7 +838,7 @@
                 "open_issues": 10,
                 "owner": "cornyhorse-tuis",
                 "repo": "sshaman",
-                "stars": 20,
+                "stars": 21,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:36:37.041Z"
@@ -916,7 +916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T19:45:59.969Z",
+    "last_updated": "2026-09-16T19:37:45.964Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects related to Textualize",
