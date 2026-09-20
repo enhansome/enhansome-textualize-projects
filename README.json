@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-06-23T03:10:19Z",
-            "open_issues": 378,
+            "open_issues": 377,
             "owner": "Textualize",
             "repo": "rich",
-            "stars": 57393,
+            "stars": 57406,
             "topics": [
               "ansi-colors",
               "emoji",
@@ -57,7 +57,7 @@
             "open_issues": 359,
             "owner": "Textualize",
             "repo": "textual",
-            "stars": 37283,
+            "stars": 37292,
             "topics": [
               "cli",
               "framework",
@@ -85,7 +85,7 @@
             "open_issues": 47,
             "owner": "Textualize",
             "repo": "rich-cli",
-            "stars": 3723,
+            "stars": 3724,
             "topics": [
               "markdown",
               "rich",
@@ -120,7 +120,7 @@
                 "open_issues": 37,
                 "owner": "Textualize",
                 "repo": "toolong",
-                "stars": 3948,
+                "stars": 3949,
                 "topics": [
                   "jsonl",
                   "rich",
@@ -148,7 +148,7 @@
                 "open_issues": 46,
                 "owner": "Textualize",
                 "repo": "frogmouth",
-                "stars": 3292,
+                "stars": 3293,
                 "topics": [
                   "markdown",
                   "markdown-viewer",
@@ -217,7 +217,7 @@
                 "open_issues": 3,
                 "owner": "PabloLec",
                 "repo": "RecoverPy",
-                "stars": 1789,
+                "stars": 1790,
                 "topics": [
                   "cli",
                   "console",
@@ -482,7 +482,7 @@
                 "open_issues": 17,
                 "owner": "darrenburns",
                 "repo": "textual-autocomplete",
-                "stars": 293,
+                "stars": 294,
                 "topics": [
                   "autocomplete",
                   "dropdown",
@@ -607,6 +607,41 @@
             },
             {
               "node_type": "item",
+              "title": "Fspicker",
+              "description": "A Textual widget library for picking things in the filesystem.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A Textual widget library for picking things in the filesystem",
+                "homepage": "https://textual-fspicker.davep.dev/",
+                "id": 639619331,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-08-12T08:30:42Z",
+                "open_issues": 8,
+                "owner": "davep",
+                "repo": "textual-fspicker",
+                "stars": 103,
+                "topics": [
+                  "filesystem",
+                  "filesystem-library",
+                  "framework",
+                  "library",
+                  "python",
+                  "terminal",
+                  "textual",
+                  "textual-dialog",
+                  "textual-framework",
+                  "textual-widget",
+                  "toolkit",
+                  "tui",
+                  "ui"
+                ]
+              },
+              "first_seen": "2026-08-29T00:36:37.041Z"
+            },
+            {
+              "node_type": "item",
               "title": "Usolitaire",
               "description": "Solitaire in your terminal, powered by Unicode.",
               "children": [],
@@ -629,41 +664,6 @@
                   "textual-framework",
                   "tui",
                   "unicode-box-drawing"
-                ]
-              },
-              "first_seen": "2026-08-29T00:36:37.041Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Fspicker",
-              "description": "A Textual widget library for picking things in the filesystem.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A Textual widget library for picking things in the filesystem",
-                "homepage": "https://textual-fspicker.davep.dev/",
-                "id": 639619331,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-08-12T08:30:42Z",
-                "open_issues": 8,
-                "owner": "davep",
-                "repo": "textual-fspicker",
-                "stars": 102,
-                "topics": [
-                  "filesystem",
-                  "filesystem-library",
-                  "framework",
-                  "library",
-                  "python",
-                  "terminal",
-                  "textual",
-                  "textual-dialog",
-                  "textual-framework",
-                  "textual-widget",
-                  "toolkit",
-                  "tui",
-                  "ui"
                 ]
               },
               "first_seen": "2026-08-29T00:36:37.041Z"
@@ -916,7 +916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T18:41:20.691Z",
+    "last_updated": "2026-09-20T18:56:38.835Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects related to Textualize",
@@ -928,7 +928,7 @@
       "open_issues": 7,
       "owner": "oleksis",
       "repo": "awesome-textualize-projects",
-      "stars": 116,
+      "stars": 117,
       "topics": [
         "awesome",
         "awesome-list"
