@@ -19,7 +19,7 @@
             "open_issues": 377,
             "owner": "Textualize",
             "repo": "rich",
-            "stars": 57406,
+            "stars": 57414,
             "topics": [
               "ansi-colors",
               "emoji",
@@ -57,7 +57,7 @@
             "open_issues": 359,
             "owner": "Textualize",
             "repo": "textual",
-            "stars": 37292,
+            "stars": 37299,
             "topics": [
               "cli",
               "framework",
@@ -259,7 +259,7 @@
                 "open_issues": 10,
                 "owner": "1j01",
                 "repo": "textual-paint",
-                "stars": 1122,
+                "stars": 1121,
                 "topics": [
                   "ansi-art",
                   "ansi-editor",
@@ -325,7 +325,7 @@
                 "open_issues": 5,
                 "owner": "eliasdorneles",
                 "repo": "upiano",
-                "stars": 793,
+                "stars": 792,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:36:37.041Z"
@@ -346,7 +346,7 @@
                 "open_issues": 3,
                 "owner": "darrenburns",
                 "repo": "rich-pixels",
-                "stars": 523,
+                "stars": 522,
                 "topics": [
                   "ascii",
                   "ascii-art",
@@ -916,7 +916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T18:56:38.835Z",
+    "last_updated": "2026-09-21T20:29:12.385Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects related to Textualize",
