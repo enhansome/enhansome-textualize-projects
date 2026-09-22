@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-06-23T03:10:19Z",
-            "open_issues": 377,
+            "open_issues": 379,
             "owner": "Textualize",
             "repo": "rich",
-            "stars": 57414,
+            "stars": 57416,
             "topics": [
               "ansi-colors",
               "emoji",
@@ -57,7 +57,7 @@
             "open_issues": 359,
             "owner": "Textualize",
             "repo": "textual",
-            "stars": 37299,
+            "stars": 37308,
             "topics": [
               "cli",
               "framework",
@@ -82,7 +82,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-12T04:57:11Z",
-            "open_issues": 47,
+            "open_issues": 46,
             "owner": "Textualize",
             "repo": "rich-cli",
             "stars": 3724,
@@ -120,7 +120,7 @@
                 "open_issues": 37,
                 "owner": "Textualize",
                 "repo": "toolong",
-                "stars": 3949,
+                "stars": 3948,
                 "topics": [
                   "jsonl",
                   "rich",
@@ -148,7 +148,7 @@
                 "open_issues": 46,
                 "owner": "Textualize",
                 "repo": "frogmouth",
-                "stars": 3293,
+                "stars": 3294,
                 "topics": [
                   "markdown",
                   "markdown-viewer",
@@ -217,7 +217,7 @@
                 "open_issues": 3,
                 "owner": "PabloLec",
                 "repo": "RecoverPy",
-                "stars": 1790,
+                "stars": 1791,
                 "topics": [
                   "cli",
                   "console",
@@ -482,7 +482,7 @@
                 "open_issues": 17,
                 "owner": "darrenburns",
                 "repo": "textual-autocomplete",
-                "stars": 294,
+                "stars": 295,
                 "topics": [
                   "autocomplete",
                   "dropdown",
@@ -579,7 +579,7 @@
                 "open_issues": 11,
                 "owner": "mitosch",
                 "repo": "textual-terminal",
-                "stars": 142,
+                "stars": 143,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:36:37.041Z"
@@ -916,7 +916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T20:29:12.385Z",
+    "last_updated": "2026-09-22T19:48:18.459Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects related to Textualize",
