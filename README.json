@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-06-23T03:10:19Z",
-            "open_issues": 378,
+            "open_issues": 381,
             "owner": "Textualize",
             "repo": "rich",
-            "stars": 57421,
+            "stars": 57429,
             "topics": [
               "ansi-colors",
               "emoji",
@@ -54,10 +54,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-07-11T06:02:34Z",
-            "open_issues": 359,
+            "open_issues": 358,
             "owner": "Textualize",
             "repo": "textual",
-            "stars": 37314,
+            "stars": 37325,
             "topics": [
               "cli",
               "framework",
@@ -85,7 +85,7 @@
             "open_issues": 46,
             "owner": "Textualize",
             "repo": "rich-cli",
-            "stars": 3725,
+            "stars": 3726,
             "topics": [
               "markdown",
               "rich",
@@ -148,7 +148,7 @@
                 "open_issues": 46,
                 "owner": "Textualize",
                 "repo": "frogmouth",
-                "stars": 3295,
+                "stars": 3297,
                 "topics": [
                   "markdown",
                   "markdown-viewer",
@@ -176,7 +176,7 @@
                 "open_issues": 25,
                 "owner": "darrenburns",
                 "repo": "elia",
-                "stars": 2479,
+                "stars": 2478,
                 "topics": [
                   "ai",
                   "chatgpt",
@@ -217,7 +217,7 @@
                 "open_issues": 3,
                 "owner": "PabloLec",
                 "repo": "RecoverPy",
-                "stars": 1790,
+                "stars": 1791,
                 "topics": [
                   "cli",
                   "console",
@@ -600,7 +600,7 @@
                 "open_issues": 5,
                 "owner": "adamviola",
                 "repo": "textual-imageview",
-                "stars": 138,
+                "stars": 137,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:36:37.041Z"
@@ -705,7 +705,7 @@
                 "open_issues": 0,
                 "owner": "koenvervloesem",
                 "repo": "humble-explorer",
-                "stars": 84,
+                "stars": 85,
                 "topics": [
                   "ble",
                   "ble-scanner",
@@ -916,7 +916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T19:44:21.287Z",
+    "last_updated": "2026-09-24T20:03:26.684Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects related to Textualize",
