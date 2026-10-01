@@ -19,7 +19,7 @@
             "open_issues": 380,
             "owner": "Textualize",
             "repo": "rich",
-            "stars": 57454,
+            "stars": 57464,
             "topics": [
               "ansi-colors",
               "emoji",
@@ -57,7 +57,7 @@
             "open_issues": 360,
             "owner": "Textualize",
             "repo": "textual",
-            "stars": 37374,
+            "stars": 37380,
             "topics": [
               "cli",
               "framework",
@@ -85,7 +85,7 @@
             "open_issues": 46,
             "owner": "Textualize",
             "repo": "rich-cli",
-            "stars": 3728,
+            "stars": 3729,
             "topics": [
               "markdown",
               "rich",
@@ -117,7 +117,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2024-08-05T19:29:28Z",
-                "open_issues": 37,
+                "open_issues": 38,
                 "owner": "Textualize",
                 "repo": "toolong",
                 "stars": 3952,
@@ -148,7 +148,7 @@
                 "open_issues": 46,
                 "owner": "Textualize",
                 "repo": "frogmouth",
-                "stars": 3301,
+                "stars": 3302,
                 "topics": [
                   "markdown",
                   "markdown-viewer",
@@ -176,7 +176,7 @@
                 "open_issues": 25,
                 "owner": "darrenburns",
                 "repo": "elia",
-                "stars": 2479,
+                "stars": 2480,
                 "topics": [
                   "ai",
                   "chatgpt",
@@ -916,7 +916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T20:55:10.371Z",
+    "last_updated": "2026-10-01T21:10:41.821Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects related to Textualize",
@@ -925,7 +925,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2024-03-18T02:18:36Z",
-      "open_issues": 8,
+      "open_issues": 7,
       "owner": "oleksis",
       "repo": "awesome-textualize-projects",
       "stars": 118,
