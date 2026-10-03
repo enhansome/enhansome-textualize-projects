@@ -19,7 +19,7 @@
             "open_issues": 380,
             "owner": "Textualize",
             "repo": "rich",
-            "stars": 57467,
+            "stars": 57472,
             "topics": [
               "ansi-colors",
               "emoji",
@@ -54,10 +54,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-07-11T06:02:34Z",
-            "open_issues": 362,
+            "open_issues": 360,
             "owner": "Textualize",
             "repo": "textual",
-            "stars": 37389,
+            "stars": 37390,
             "topics": [
               "cli",
               "framework",
@@ -85,7 +85,7 @@
             "open_issues": 46,
             "owner": "Textualize",
             "repo": "rich-cli",
-            "stars": 3730,
+            "stars": 3729,
             "topics": [
               "markdown",
               "rich",
@@ -148,7 +148,7 @@
                 "open_issues": 46,
                 "owner": "Textualize",
                 "repo": "frogmouth",
-                "stars": 3303,
+                "stars": 3305,
                 "topics": [
                   "markdown",
                   "markdown-viewer",
@@ -176,7 +176,7 @@
                 "open_issues": 25,
                 "owner": "darrenburns",
                 "repo": "elia",
-                "stars": 2480,
+                "stars": 2481,
                 "topics": [
                   "ai",
                   "chatgpt",
@@ -607,41 +607,6 @@
             },
             {
               "node_type": "item",
-              "title": "Fspicker",
-              "description": "A Textual widget library for picking things in the filesystem.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A Textual widget library for picking things in the filesystem",
-                "homepage": "https://textual-fspicker.davep.dev/",
-                "id": 639619331,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-08-12T08:30:42Z",
-                "open_issues": 8,
-                "owner": "davep",
-                "repo": "textual-fspicker",
-                "stars": 103,
-                "topics": [
-                  "filesystem",
-                  "filesystem-library",
-                  "framework",
-                  "library",
-                  "python",
-                  "terminal",
-                  "textual",
-                  "textual-dialog",
-                  "textual-framework",
-                  "textual-widget",
-                  "toolkit",
-                  "tui",
-                  "ui"
-                ]
-              },
-              "first_seen": "2026-08-29T00:36:37.041Z"
-            },
-            {
-              "node_type": "item",
               "title": "Usolitaire",
               "description": "Solitaire in your terminal, powered by Unicode.",
               "children": [],
@@ -664,6 +629,41 @@
                   "textual-framework",
                   "tui",
                   "unicode-box-drawing"
+                ]
+              },
+              "first_seen": "2026-08-29T00:36:37.041Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Fspicker",
+              "description": "A Textual widget library for picking things in the filesystem.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A Textual widget library for picking things in the filesystem",
+                "homepage": "https://textual-fspicker.davep.dev/",
+                "id": 639619331,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-08-12T08:30:42Z",
+                "open_issues": 8,
+                "owner": "davep",
+                "repo": "textual-fspicker",
+                "stars": 102,
+                "topics": [
+                  "filesystem",
+                  "filesystem-library",
+                  "framework",
+                  "library",
+                  "python",
+                  "terminal",
+                  "textual",
+                  "textual-dialog",
+                  "textual-framework",
+                  "textual-widget",
+                  "toolkit",
+                  "tui",
+                  "ui"
                 ]
               },
               "first_seen": "2026-08-29T00:36:37.041Z"
@@ -916,7 +916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:11:12.091Z",
+    "last_updated": "2026-10-03T19:19:27.485Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects related to Textualize",
