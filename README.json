@@ -19,7 +19,7 @@
             "open_issues": 380,
             "owner": "Textualize",
             "repo": "rich",
-            "stars": 57466,
+            "stars": 57467,
             "topics": [
               "ansi-colors",
               "emoji",
@@ -57,7 +57,7 @@
             "open_issues": 362,
             "owner": "Textualize",
             "repo": "textual",
-            "stars": 37387,
+            "stars": 37389,
             "topics": [
               "cli",
               "framework",
@@ -705,7 +705,7 @@
                 "open_issues": 0,
                 "owner": "koenvervloesem",
                 "repo": "humble-explorer",
-                "stars": 85,
+                "stars": 86,
                 "topics": [
                   "ble",
                   "ble-scanner",
@@ -916,7 +916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T20:51:21.647Z",
+    "last_updated": "2026-10-03T05:11:12.091Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects related to Textualize",
