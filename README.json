@@ -19,7 +19,7 @@
             "open_issues": 380,
             "owner": "Textualize",
             "repo": "rich",
-            "stars": 57475,
+            "stars": 57480,
             "topics": [
               "ansi-colors",
               "emoji",
@@ -54,10 +54,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-07-11T06:02:34Z",
-            "open_issues": 361,
+            "open_issues": 360,
             "owner": "Textualize",
             "repo": "textual",
-            "stars": 37397,
+            "stars": 37402,
             "topics": [
               "cli",
               "framework",
@@ -81,11 +81,11 @@
             "id": 450811921,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-12T04:57:11Z",
-            "open_issues": 46,
+            "last_commit": "2026-10-05T13:42:19Z",
+            "open_issues": 47,
             "owner": "Textualize",
             "repo": "rich-cli",
-            "stars": 3729,
+            "stars": 3731,
             "topics": [
               "markdown",
               "rich",
@@ -120,7 +120,7 @@
                 "open_issues": 38,
                 "owner": "Textualize",
                 "repo": "toolong",
-                "stars": 3951,
+                "stars": 3952,
                 "topics": [
                   "jsonl",
                   "rich",
@@ -217,7 +217,7 @@
                 "open_issues": 3,
                 "owner": "PabloLec",
                 "repo": "RecoverPy",
-                "stars": 1793,
+                "stars": 1792,
                 "topics": [
                   "cli",
                   "console",
@@ -441,6 +441,35 @@
             },
             {
               "node_type": "item",
+              "title": "Autocomplete",
+              "description": "Easily add autocomplete dropdowns to your Textual apps.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Easily add autocomplete dropdowns to your Textual apps",
+                "homepage": null,
+                "id": 569361959,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-01-24T00:45:26Z",
+                "open_issues": 17,
+                "owner": "darrenburns",
+                "repo": "textual-autocomplete",
+                "stars": 296,
+                "topics": [
+                  "autocomplete",
+                  "dropdown",
+                  "library",
+                  "python",
+                  "terminal",
+                  "textual",
+                  "tui"
+                ]
+              },
+              "first_seen": "2026-08-29T00:36:37.041Z"
+            },
+            {
+              "node_type": "item",
               "title": "Django-TUI",
               "description": "Inspect and run Django Commands in a text-based user interface (TUI).",
               "children": [],
@@ -460,35 +489,6 @@
                   "command-line",
                   "django",
                   "python",
-                  "textual",
-                  "tui"
-                ]
-              },
-              "first_seen": "2026-08-29T00:36:37.041Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Autocomplete",
-              "description": "Easily add autocomplete dropdowns to your Textual apps.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Easily add autocomplete dropdowns to your Textual apps",
-                "homepage": null,
-                "id": 569361959,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-01-24T00:45:26Z",
-                "open_issues": 17,
-                "owner": "darrenburns",
-                "repo": "textual-autocomplete",
-                "stars": 295,
-                "topics": [
-                  "autocomplete",
-                  "dropdown",
-                  "library",
-                  "python",
-                  "terminal",
                   "textual",
                   "tui"
                 ]
@@ -705,7 +705,7 @@
                 "open_issues": 0,
                 "owner": "koenvervloesem",
                 "repo": "humble-explorer",
-                "stars": 86,
+                "stars": 87,
                 "topics": [
                   "ble",
                   "ble-scanner",
@@ -916,7 +916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T19:44:15.031Z",
+    "last_updated": "2026-10-05T22:48:48.996Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects related to Textualize",
