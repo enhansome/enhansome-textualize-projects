@@ -19,7 +19,7 @@
             "open_issues": 380,
             "owner": "Textualize",
             "repo": "rich",
-            "stars": 57481,
+            "stars": 57482,
             "topics": [
               "ansi-colors",
               "emoji",
@@ -57,7 +57,7 @@
             "open_issues": 360,
             "owner": "Textualize",
             "repo": "textual",
-            "stars": 37404,
+            "stars": 37405,
             "topics": [
               "cli",
               "framework",
@@ -82,10 +82,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-05T13:42:19Z",
-            "open_issues": 47,
+            "open_issues": 48,
             "owner": "Textualize",
             "repo": "rich-cli",
-            "stars": 3731,
+            "stars": 3732,
             "topics": [
               "markdown",
               "rich",
@@ -120,7 +120,7 @@
                 "open_issues": 38,
                 "owner": "Textualize",
                 "repo": "toolong",
-                "stars": 3952,
+                "stars": 3953,
                 "topics": [
                   "jsonl",
                   "rich",
@@ -148,7 +148,7 @@
                 "open_issues": 46,
                 "owner": "Textualize",
                 "repo": "frogmouth",
-                "stars": 3306,
+                "stars": 3305,
                 "topics": [
                   "markdown",
                   "markdown-viewer",
@@ -259,7 +259,7 @@
                 "open_issues": 10,
                 "owner": "1j01",
                 "repo": "textual-paint",
-                "stars": 1121,
+                "stars": 1122,
                 "topics": [
                   "ansi-art",
                   "ansi-editor",
@@ -916,7 +916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:49:54.484Z",
+    "last_updated": "2026-10-06T21:05:57.638Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects related to Textualize",
