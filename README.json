@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-06-23T03:10:19Z",
-            "open_issues": 380,
+            "open_issues": 381,
             "owner": "Textualize",
             "repo": "rich",
-            "stars": 57482,
+            "stars": 57483,
             "topics": [
               "ansi-colors",
               "emoji",
@@ -57,7 +57,7 @@
             "open_issues": 360,
             "owner": "Textualize",
             "repo": "textual",
-            "stars": 37405,
+            "stars": 37409,
             "topics": [
               "cli",
               "framework",
@@ -85,7 +85,7 @@
             "open_issues": 48,
             "owner": "Textualize",
             "repo": "rich-cli",
-            "stars": 3732,
+            "stars": 3733,
             "topics": [
               "markdown",
               "rich",
@@ -176,7 +176,7 @@
                 "open_issues": 25,
                 "owner": "darrenburns",
                 "repo": "elia",
-                "stars": 2481,
+                "stars": 2480,
                 "topics": [
                   "ai",
                   "chatgpt",
@@ -916,7 +916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T21:05:57.638Z",
+    "last_updated": "2026-10-07T21:26:26.801Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects related to Textualize",
