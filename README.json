@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-06-23T03:10:19Z",
-            "open_issues": 382,
+            "open_issues": 383,
             "owner": "Textualize",
             "repo": "rich",
-            "stars": 57514,
+            "stars": 57519,
             "topics": [
               "ansi-colors",
               "emoji",
@@ -54,10 +54,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-09T17:24:10Z",
-            "open_issues": 363,
+            "open_issues": 366,
             "owner": "Textualize",
             "repo": "textual",
-            "stars": 37441,
+            "stars": 37450,
             "topics": [
               "cli",
               "framework",
@@ -82,10 +82,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-05T13:42:19Z",
-            "open_issues": 52,
+            "open_issues": 54,
             "owner": "Textualize",
             "repo": "rich-cli",
-            "stars": 3763,
+            "stars": 3764,
             "topics": [
               "markdown",
               "rich",
@@ -120,7 +120,7 @@
                 "open_issues": 38,
                 "owner": "Textualize",
                 "repo": "toolong",
-                "stars": 3954,
+                "stars": 3952,
                 "topics": [
                   "jsonl",
                   "rich",
@@ -148,7 +148,7 @@
                 "open_issues": 46,
                 "owner": "Textualize",
                 "repo": "frogmouth",
-                "stars": 3308,
+                "stars": 3307,
                 "topics": [
                   "markdown",
                   "markdown-viewer",
@@ -173,10 +173,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2024-10-10T19:12:52Z",
-                "open_issues": 25,
+                "open_issues": 27,
                 "owner": "darrenburns",
                 "repo": "elia",
-                "stars": 2481,
+                "stars": 2480,
                 "topics": [
                   "ai",
                   "chatgpt",
@@ -217,7 +217,7 @@
                 "open_issues": 3,
                 "owner": "PabloLec",
                 "repo": "RecoverPy",
-                "stars": 1792,
+                "stars": 1791,
                 "topics": [
                   "cli",
                   "console",
@@ -299,7 +299,7 @@
                 "open_issues": 22,
                 "owner": "darrenburns",
                 "repo": "dunk",
-                "stars": 889,
+                "stars": 888,
                 "topics": [
                   "cli",
                   "diff",
@@ -346,7 +346,7 @@
                 "open_issues": 3,
                 "owner": "darrenburns",
                 "repo": "rich-pixels",
-                "stars": 522,
+                "stars": 521,
                 "topics": [
                   "ascii",
                   "ascii-art",
@@ -374,7 +374,7 @@
                 "open_issues": 11,
                 "owner": "willmcgugan",
                 "repo": "textual-markdown",
-                "stars": 501,
+                "stars": 500,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:36:37.041Z"
@@ -441,6 +441,33 @@
             },
             {
               "node_type": "item",
+              "title": "Django-TUI",
+              "description": "Inspect and run Django Commands in a text-based user interface (TUI).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Inspect and run Django Commands in a text-based user interface (TUI)",
+                "homepage": null,
+                "id": 682178106,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-13T14:27:34Z",
+                "open_issues": 1,
+                "owner": "anze3db",
+                "repo": "django-tui",
+                "stars": 298,
+                "topics": [
+                  "command-line",
+                  "django",
+                  "python",
+                  "textual",
+                  "tui"
+                ]
+              },
+              "first_seen": "2026-08-29T00:36:37.041Z"
+            },
+            {
+              "node_type": "item",
               "title": "Autocomplete",
               "description": "Easily add autocomplete dropdowns to your Textual apps.",
               "children": [],
@@ -470,33 +497,6 @@
             },
             {
               "node_type": "item",
-              "title": "Django-TUI",
-              "description": "Inspect and run Django Commands in a text-based user interface (TUI).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Inspect and run Django Commands in a text-based user interface (TUI)",
-                "homepage": null,
-                "id": 682178106,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2024-10-16T18:36:34Z",
-                "open_issues": 1,
-                "owner": "anze3db",
-                "repo": "django-tui",
-                "stars": 296,
-                "topics": [
-                  "command-line",
-                  "django",
-                  "python",
-                  "textual",
-                  "tui"
-                ]
-              },
-              "first_seen": "2026-08-29T00:36:37.041Z"
-            },
-            {
-              "node_type": "item",
               "title": "Logmerger",
               "description": "TUI utility to view multiple log files with merged timeline.",
               "children": [],
@@ -511,7 +511,7 @@
                 "open_issues": 4,
                 "owner": "ptmcg",
                 "repo": "logmerger",
-                "stars": 261,
+                "stars": 260,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:36:37.041Z"
@@ -621,7 +621,7 @@
                 "open_issues": 2,
                 "owner": "eliasdorneles",
                 "repo": "usolitaire",
-                "stars": 103,
+                "stars": 104,
                 "topics": [
                   "python",
                   "terminal-app",
@@ -916,7 +916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T23:07:07.980Z",
+    "last_updated": "2026-10-13T21:23:28.691Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects related to Textualize",
