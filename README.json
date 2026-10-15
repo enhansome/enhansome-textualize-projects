@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-06-23T03:10:19Z",
-            "open_issues": 383,
+            "open_issues": 384,
             "owner": "Textualize",
             "repo": "rich",
-            "stars": 57527,
+            "stars": 57539,
             "topics": [
               "ansi-colors",
               "emoji",
@@ -54,10 +54,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-09T17:24:10Z",
-            "open_issues": 367,
+            "open_issues": 368,
             "owner": "Textualize",
             "repo": "textual",
-            "stars": 37462,
+            "stars": 37464,
             "topics": [
               "cli",
               "framework",
@@ -82,7 +82,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-05T13:42:19Z",
-            "open_issues": 54,
+            "open_issues": 56,
             "owner": "Textualize",
             "repo": "rich-cli",
             "stars": 3766,
@@ -325,7 +325,7 @@
                 "open_issues": 5,
                 "owner": "eliasdorneles",
                 "repo": "upiano",
-                "stars": 792,
+                "stars": 791,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:36:37.041Z"
@@ -705,7 +705,7 @@
                 "open_issues": 0,
                 "owner": "koenvervloesem",
                 "repo": "humble-explorer",
-                "stars": 87,
+                "stars": 88,
                 "topics": [
                   "ble",
                   "ble-scanner",
@@ -916,7 +916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T20:16:30.902Z",
+    "last_updated": "2026-10-15T19:57:26.960Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects related to Textualize",
