@@ -19,7 +19,7 @@
             "open_issues": 384,
             "owner": "Textualize",
             "repo": "rich",
-            "stars": 57549,
+            "stars": 57550,
             "topics": [
               "ansi-colors",
               "emoji",
@@ -57,7 +57,7 @@
             "open_issues": 368,
             "owner": "Textualize",
             "repo": "textual",
-            "stars": 37473,
+            "stars": 37474,
             "topics": [
               "cli",
               "framework",
@@ -85,7 +85,7 @@
             "open_issues": 57,
             "owner": "Textualize",
             "repo": "rich-cli",
-            "stars": 3766,
+            "stars": 3768,
             "topics": [
               "markdown",
               "rich",
@@ -120,7 +120,7 @@
                 "open_issues": 38,
                 "owner": "Textualize",
                 "repo": "toolong",
-                "stars": 3951,
+                "stars": 3952,
                 "topics": [
                   "jsonl",
                   "rich",
@@ -148,7 +148,7 @@
                 "open_issues": 46,
                 "owner": "Textualize",
                 "repo": "frogmouth",
-                "stars": 3309,
+                "stars": 3310,
                 "topics": [
                   "markdown",
                   "markdown-viewer",
@@ -451,7 +451,7 @@
                 "id": 682178106,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-14T10:29:03Z",
+                "last_commit": "2026-10-17T08:56:08Z",
                 "open_issues": 0,
                 "owner": "anze3db",
                 "repo": "django-tui",
@@ -649,7 +649,7 @@
                 "open_issues": 8,
                 "owner": "davep",
                 "repo": "textual-fspicker",
-                "stars": 102,
+                "stars": 103,
                 "topics": [
                   "filesystem",
                   "filesystem-library",
@@ -916,7 +916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T19:37:16.636Z",
+    "last_updated": "2026-10-17T18:40:54.297Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects related to Textualize",
