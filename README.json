@@ -19,7 +19,7 @@
             "open_issues": 385,
             "owner": "Textualize",
             "repo": "rich",
-            "stars": 57577,
+            "stars": 57583,
             "topics": [
               "ansi-colors",
               "emoji",
@@ -57,7 +57,7 @@
             "open_issues": 368,
             "owner": "Textualize",
             "repo": "textual",
-            "stars": 37479,
+            "stars": 37485,
             "topics": [
               "cli",
               "framework",
@@ -85,7 +85,7 @@
             "open_issues": 58,
             "owner": "Textualize",
             "repo": "rich-cli",
-            "stars": 3768,
+            "stars": 3770,
             "topics": [
               "markdown",
               "rich",
@@ -120,7 +120,7 @@
                 "open_issues": 38,
                 "owner": "Textualize",
                 "repo": "toolong",
-                "stars": 3952,
+                "stars": 3955,
                 "topics": [
                   "jsonl",
                   "rich",
@@ -148,7 +148,7 @@
                 "open_issues": 46,
                 "owner": "Textualize",
                 "repo": "frogmouth",
-                "stars": 3311,
+                "stars": 3312,
                 "topics": [
                   "markdown",
                   "markdown-viewer",
@@ -256,7 +256,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-02-21T22:00:38Z",
-                "open_issues": 10,
+                "open_issues": 11,
                 "owner": "1j01",
                 "repo": "textual-paint",
                 "stars": 1123,
@@ -482,7 +482,7 @@
                 "open_issues": 18,
                 "owner": "darrenburns",
                 "repo": "textual-autocomplete",
-                "stars": 295,
+                "stars": 296,
                 "topics": [
                   "autocomplete",
                   "dropdown",
@@ -916,7 +916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T21:10:39.924Z",
+    "last_updated": "2026-10-20T20:03:24.785Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects related to Textualize",
