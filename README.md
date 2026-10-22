@@ -8,17 +8,17 @@
 
 # Awesome Textualize Projects with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 522,318 | 🐛 105 | 📅 2026-09-02 [<!--lint ignore no-dead-urls-->![GitHub Actions status | oleksis/awesome-textualize-projects](https://github.com/oleksis/awesome-textualize-projects/actions/workflows/lint.yml/badge.svg)](https://github.com/oleksis/awesome-textualize-projects/actions/workflows/lint.yml)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 523,018 | 🐛 105 | 📅 2026-09-02 [<!--lint ignore no-dead-urls-->![GitHub Actions status | oleksis/awesome-textualize-projects](https://github.com/oleksis/awesome-textualize-projects/actions/workflows/lint.yml/badge.svg)](https://github.com/oleksis/awesome-textualize-projects/actions/workflows/lint.yml)
 
 > A curated list of awesome projects related to [Textualize].
 
 Textualize is responsible for creating frameworks / projects like:
 
-* [Rich](https://github.com/Textualize/rich) ⭐ 57,596 | 🐛 385 | 🌐 Python | 📅 2026-06-23:
+* [Rich](https://github.com/Textualize/rich) ⭐ 57,598 | 🐛 386 | 🌐 Python | 📅 2026-06-23:
   a Python library for rich text and beautiful formatting in the terminal.
-* [Textual](https://github.com/Textualize/textual) ⭐ 37,497 | 🐛 369 | 🌐 Python | 📅 2026-10-09:
+* [Textual](https://github.com/Textualize/textual) ⭐ 37,502 | 🐛 369 | 🌐 Python | 📅 2026-10-09:
   a TUI (Text User Interface) framework for Python inspired by modern web development.
-* [Rich CLI](https://github.com/Textualize/rich-cli) ⭐ 3,770 | 🐛 58 | 🌐 Python | 📅 2026-10-05:
+* [Rich CLI](https://github.com/Textualize/rich-cli) ⭐ 3,773 | 🐛 58 | 🌐 Python | 📅 2026-10-05:
   a command line toolbox for fancy output in the terminal
 
 ## Contents
@@ -51,7 +51,7 @@ Textualize is responsible for creating frameworks / projects like:
 
 ### Rich CLI
 
-* [Rich CLI Repository](https://github.com/Textualize/rich-cli.git) ⭐ 3,770 | 🐛 58 | 🌐 Python | 📅 2026-10-05 - Rich from the command prompt. Syntax highlight many file-types, with special support for markdown, json, and CSV tables.
+* [Rich CLI Repository](https://github.com/Textualize/rich-cli.git) ⭐ 3,773 | 🐛 58 | 🌐 Python | 📅 2026-10-05 - Rich from the command prompt. Syntax highlight many file-types, with special support for markdown, json, and CSV tables.
 
 ## Community
 
@@ -59,13 +59,13 @@ Textualize is responsible for creating frameworks / projects like:
 
 ### Third Party Applications
 
-* [Toolong](https://github.com/Textualize/toolong) ⭐ 3,963 | 🐛 38 | 🌐 Python | 📅 2024-08-05 - A terminal application to view, tail, merge, and search log files (plus JSONL).
+* [Toolong](https://github.com/Textualize/toolong) ⭐ 3,965 | 🐛 38 | 🌐 Python | 📅 2024-08-05 - A terminal application to view, tail, merge, and search log files (plus JSONL).
 * [Frogmouth](https://github.com/Textualize/frogmouth) ⭐ 3,315 | 🐛 46 | 🌐 Python | 📅 2024-08-01 - A Markdown browser for your terminal.
 * [Elia](https://github.com/darrenburns/elia) ⭐ 2,484 | 🐛 27 | 🌐 Python | 📅 2024-10-10 -  A terminal ChatGPT client built with Textual.
-* [RecoverPy](https://github.com/PabloLec/RecoverPy) ⭐ 1,792 | 🐛 3 | 🌐 Python | 📅 2026-08-03 - Interactively find and recover deleted or overwritten files from your terminal.
-* [Pain](https://github.com/1j01/textual-paint) ⭐ 1,123 | 🐛 11 | 🌐 Python | 📅 2026-02-21 - 🎨 MS Paint.<!--lint ignore no-repeat-punctuation-->.<!--lint ignore no-repeat-punctuation-->. in your terminal.
+* [RecoverPy](https://github.com/PabloLec/RecoverPy) ⭐ 1,793 | 🐛 3 | 🌐 Python | 📅 2026-08-03 - Interactively find and recover deleted or overwritten files from your terminal.
+* [Pain](https://github.com/1j01/textual-paint) ⭐ 1,125 | 🐛 11 | 🌐 Python | 📅 2026-02-21 - 🎨 MS Paint.<!--lint ignore no-repeat-punctuation-->.<!--lint ignore no-repeat-punctuation-->. in your terminal.
 * [Dunk](https://github.com/darrenburns/dunk) ⭐ 888 | 🐛 22 | 🌐 Python | 📅 2025-04-19 - Prettier git diffs in the terminal 🎨.
-* [Upiano](https://github.com/eliasdorneles/upiano) ⭐ 791 | 🐛 5 | 🌐 Python | 📅 2025-07-09 - A Piano in your terminal.
+* [Upiano](https://github.com/eliasdorneles/upiano) ⭐ 790 | 🐛 5 | 🌐 Python | 📅 2025-07-09 - A Piano in your terminal.
 * [Rich Pixels](https://github.com/darrenburns/rich-pixels) ⭐ 521 | 🐛 3 | 🌐 Python | 📅 2024-10-18 - A Rich-compatible library for writing pixel images and ASCII art to the terminal.
 * [Markdown Browser](https://github.com/willmcgugan/textual-markdown) ⚠️ Archived - Markdown in the terminal.
 * [NoteSH](https://github.com/cvaniak/notesh) ⭐ 488 | 🐛 2 | 🌐 Python | 📅 2025-10-05 - A fully functional sticky notes App in your Terminal.
@@ -85,7 +85,7 @@ Textualize is responsible for creating frameworks / projects like:
 * [Select](https://github.com/mitosch/textual-select) ⭐ 48 | 🐛 0 | 🌐 Python | 📅 2023-06-12 - A simple drop-down (select) for Textual with an optional search functionality.
 * [Datepicker](https://github.com/mitosch/textual-datepicker) ⭐ 37 | 🐛 2 | 🌐 Python | 📅 2023-04-25 - A datepicker for textual.
 * [Jtree](https://github.com/oleksis/jtree) ⭐ 23 | 🐛 1 | 🌐 Python | 📅 2023-08-28 - A command line interface (CLI) for displaying JavaScript Object Notation (JSON) in a tree view.
-* [SSHaMan](https://github.com/cornyhorse/sshaman) ⭐ 21 | 🐛 10 | 🌐 Python | 📅 2026-02-27 - SSH Management.
+* [SSHaMan](https://github.com/cornyhorse/sshaman) ⭐ 21 | 🐛 12 | 🌐 Python | 📅 2026-10-22 - SSH Management.
 * [Conways Game of Life](https://github.com/thomascrha/textual-game-of-life) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2025-04-01 -  A implementation of Conway's game of life (cellular automata) in the terminal using textual.
 * [Palettepal](https://github.com/cdelker/palettepal) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2023-08-01 - Terminal-Based Color Editor and Palette Generator.
 * [FivePyFive](https://github.com/davep/fivepyfive) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2023-02-17 - An annoying puzzle for the terminal; built with Textual.
@@ -104,4 +104,4 @@ Textualize is responsible for creating frameworks / projects like:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._

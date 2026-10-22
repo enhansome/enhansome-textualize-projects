@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-06-23T03:10:19Z",
-            "open_issues": 385,
+            "open_issues": 386,
             "owner": "Textualize",
             "repo": "rich",
-            "stars": 57596,
+            "stars": 57598,
             "topics": [
               "ansi-colors",
               "emoji",
@@ -57,7 +57,7 @@
             "open_issues": 369,
             "owner": "Textualize",
             "repo": "textual",
-            "stars": 37497,
+            "stars": 37502,
             "topics": [
               "cli",
               "framework",
@@ -85,7 +85,7 @@
             "open_issues": 58,
             "owner": "Textualize",
             "repo": "rich-cli",
-            "stars": 3770,
+            "stars": 3773,
             "topics": [
               "markdown",
               "rich",
@@ -120,7 +120,7 @@
                 "open_issues": 38,
                 "owner": "Textualize",
                 "repo": "toolong",
-                "stars": 3963,
+                "stars": 3965,
                 "topics": [
                   "jsonl",
                   "rich",
@@ -217,7 +217,7 @@
                 "open_issues": 3,
                 "owner": "PabloLec",
                 "repo": "RecoverPy",
-                "stars": 1792,
+                "stars": 1793,
                 "topics": [
                   "cli",
                   "console",
@@ -259,7 +259,7 @@
                 "open_issues": 11,
                 "owner": "1j01",
                 "repo": "textual-paint",
-                "stars": 1123,
+                "stars": 1125,
                 "topics": [
                   "ansi-art",
                   "ansi-editor",
@@ -325,7 +325,7 @@
                 "open_issues": 5,
                 "owner": "eliasdorneles",
                 "repo": "upiano",
-                "stars": 791,
+                "stars": 790,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:36:37.041Z"
@@ -834,8 +834,8 @@
                 "id": 726652908,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-02-27T12:39:29Z",
-                "open_issues": 10,
+                "last_commit": "2026-10-22T18:46:23Z",
+                "open_issues": 12,
                 "owner": "cornyhorse-tuis",
                 "repo": "sshaman",
                 "stars": 21,
@@ -916,7 +916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T20:16:12.315Z",
+    "last_updated": "2026-10-22T20:14:03.962Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects related to Textualize",
