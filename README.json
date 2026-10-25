@@ -19,7 +19,7 @@
             "open_issues": 388,
             "owner": "Textualize",
             "repo": "rich",
-            "stars": 57621,
+            "stars": 57633,
             "topics": [
               "ansi-colors",
               "emoji",
@@ -54,10 +54,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-09T17:24:10Z",
-            "open_issues": 372,
+            "open_issues": 373,
             "owner": "Textualize",
             "repo": "textual",
-            "stars": 37516,
+            "stars": 37521,
             "topics": [
               "cli",
               "framework",
@@ -81,8 +81,8 @@
             "id": 450811921,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-05T13:42:19Z",
-            "open_issues": 58,
+            "last_commit": "2026-10-25T05:08:29Z",
+            "open_issues": 59,
             "owner": "Textualize",
             "repo": "rich-cli",
             "stars": 3774,
@@ -217,7 +217,7 @@
                 "open_issues": 3,
                 "owner": "PabloLec",
                 "repo": "RecoverPy",
-                "stars": 1793,
+                "stars": 1792,
                 "topics": [
                   "cli",
                   "console",
@@ -346,7 +346,7 @@
                 "open_issues": 3,
                 "owner": "darrenburns",
                 "repo": "rich-pixels",
-                "stars": 521,
+                "stars": 520,
                 "topics": [
                   "ascii",
                   "ascii-art",
@@ -455,7 +455,7 @@
                 "open_issues": 0,
                 "owner": "anze3db",
                 "repo": "django-tui",
-                "stars": 298,
+                "stars": 297,
                 "topics": [
                   "command-line",
                   "django",
@@ -834,8 +834,8 @@
                 "id": 726652908,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-23T00:01:51Z",
-                "open_issues": 11,
+                "last_commit": "2026-10-25T11:07:38Z",
+                "open_issues": 10,
                 "owner": "cornyhorse-tuis",
                 "repo": "sshaman",
                 "stars": 21,
@@ -916,7 +916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T18:54:40.945Z",
+    "last_updated": "2026-10-25T19:09:41.527Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects related to Textualize",
