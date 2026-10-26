@@ -19,7 +19,7 @@
             "open_issues": 388,
             "owner": "Textualize",
             "repo": "rich",
-            "stars": 57633,
+            "stars": 57644,
             "topics": [
               "ansi-colors",
               "emoji",
@@ -54,10 +54,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-09T17:24:10Z",
-            "open_issues": 373,
+            "open_issues": 374,
             "owner": "Textualize",
             "repo": "textual",
-            "stars": 37521,
+            "stars": 37528,
             "topics": [
               "cli",
               "framework",
@@ -217,7 +217,7 @@
                 "open_issues": 3,
                 "owner": "PabloLec",
                 "repo": "RecoverPy",
-                "stars": 1792,
+                "stars": 1793,
                 "topics": [
                   "cli",
                   "console",
@@ -259,7 +259,7 @@
                 "open_issues": 11,
                 "owner": "1j01",
                 "repo": "textual-paint",
-                "stars": 1125,
+                "stars": 1124,
                 "topics": [
                   "ansi-art",
                   "ansi-editor",
@@ -532,7 +532,7 @@
                 "open_issues": 3,
                 "owner": "darrenburns",
                 "repo": "kupo",
-                "stars": 213,
+                "stars": 214,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:36:37.041Z"
@@ -916,7 +916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T19:09:41.527Z",
+    "last_updated": "2026-10-26T21:06:54.079Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects related to Textualize",
@@ -925,10 +925,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2024-03-18T02:18:36Z",
-      "open_issues": 5,
+      "open_issues": 6,
       "owner": "oleksis",
       "repo": "awesome-textualize-projects",
-      "stars": 118,
+      "stars": 119,
       "topics": [
         "awesome",
         "awesome-list"
