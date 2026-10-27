@@ -19,7 +19,7 @@
             "open_issues": 388,
             "owner": "Textualize",
             "repo": "rich",
-            "stars": 57644,
+            "stars": 57659,
             "topics": [
               "ansi-colors",
               "emoji",
@@ -54,10 +54,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-09T17:24:10Z",
-            "open_issues": 374,
+            "open_issues": 375,
             "owner": "Textualize",
             "repo": "textual",
-            "stars": 37528,
+            "stars": 37533,
             "topics": [
               "cli",
               "framework",
@@ -81,8 +81,8 @@
             "id": 450811921,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-25T05:08:29Z",
-            "open_issues": 59,
+            "last_commit": "2026-10-27T06:07:30Z",
+            "open_issues": 58,
             "owner": "Textualize",
             "repo": "rich-cli",
             "stars": 3774,
@@ -120,7 +120,7 @@
                 "open_issues": 38,
                 "owner": "Textualize",
                 "repo": "toolong",
-                "stars": 3967,
+                "stars": 3969,
                 "topics": [
                   "jsonl",
                   "rich",
@@ -148,7 +148,7 @@
                 "open_issues": 46,
                 "owner": "Textualize",
                 "repo": "frogmouth",
-                "stars": 3316,
+                "stars": 3317,
                 "topics": [
                   "markdown",
                   "markdown-viewer",
@@ -176,7 +176,7 @@
                 "open_issues": 27,
                 "owner": "darrenburns",
                 "repo": "elia",
-                "stars": 2483,
+                "stars": 2484,
                 "topics": [
                   "ai",
                   "chatgpt",
@@ -451,7 +451,7 @@
                 "id": 682178106,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-23T12:47:17Z",
+                "last_commit": "2026-10-27T09:07:13Z",
                 "open_issues": 0,
                 "owner": "anze3db",
                 "repo": "django-tui",
@@ -646,7 +646,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-12T08:30:42Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "davep",
                 "repo": "textual-fspicker",
                 "stars": 103,
@@ -916,7 +916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T21:06:54.079Z",
+    "last_updated": "2026-10-27T20:50:00.294Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects related to Textualize",
