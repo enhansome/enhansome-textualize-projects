@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-06-23T03:10:19Z",
-            "open_issues": 388,
+            "open_issues": 389,
             "owner": "Textualize",
             "repo": "rich",
-            "stars": 57659,
+            "stars": 57676,
             "topics": [
               "ansi-colors",
               "emoji",
@@ -54,10 +54,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-09T17:24:10Z",
-            "open_issues": 375,
+            "open_issues": 376,
             "owner": "Textualize",
             "repo": "textual",
-            "stars": 37533,
+            "stars": 37542,
             "topics": [
               "cli",
               "framework",
@@ -148,7 +148,7 @@
                 "open_issues": 46,
                 "owner": "Textualize",
                 "repo": "frogmouth",
-                "stars": 3317,
+                "stars": 3318,
                 "topics": [
                   "markdown",
                   "markdown-viewer",
@@ -217,7 +217,7 @@
                 "open_issues": 3,
                 "owner": "PabloLec",
                 "repo": "RecoverPy",
-                "stars": 1793,
+                "stars": 1795,
                 "topics": [
                   "cli",
                   "console",
@@ -455,7 +455,7 @@
                 "open_issues": 0,
                 "owner": "anze3db",
                 "repo": "django-tui",
-                "stars": 297,
+                "stars": 298,
                 "topics": [
                   "command-line",
                   "django",
@@ -916,7 +916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T20:50:00.294Z",
+    "last_updated": "2026-10-28T21:13:28.062Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects related to Textualize",
