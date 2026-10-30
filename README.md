@@ -8,15 +8,15 @@
 
 # Awesome Textualize Projects with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 526,801 | 🐛 105 | 📅 2026-09-02 [<!--lint ignore no-dead-urls-->![GitHub Actions status | oleksis/awesome-textualize-projects](https://github.com/oleksis/awesome-textualize-projects/actions/workflows/lint.yml/badge.svg)](https://github.com/oleksis/awesome-textualize-projects/actions/workflows/lint.yml)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 527,431 | 🐛 105 | 📅 2026-09-02 [<!--lint ignore no-dead-urls-->![GitHub Actions status | oleksis/awesome-textualize-projects](https://github.com/oleksis/awesome-textualize-projects/actions/workflows/lint.yml/badge.svg)](https://github.com/oleksis/awesome-textualize-projects/actions/workflows/lint.yml)
 
 > A curated list of awesome projects related to [Textualize].
 
 Textualize is responsible for creating frameworks / projects like:
 
-* [Rich](https://github.com/Textualize/rich) ⭐ 57,672 | 🐛 389 | 🌐 Python | 📅 2026-06-23:
+* [Rich](https://github.com/Textualize/rich) ⭐ 57,683 | 🐛 389 | 🌐 Python | 📅 2026-06-23:
   a Python library for rich text and beautiful formatting in the terminal.
-* [Textual](https://github.com/Textualize/textual) ⭐ 37,545 | 🐛 376 | 🌐 Python | 📅 2026-10-09:
+* [Textual](https://github.com/Textualize/textual) ⭐ 37,553 | 🐛 376 | 🌐 Python | 📅 2026-10-09:
   a TUI (Text User Interface) framework for Python inspired by modern web development.
 * [Rich CLI](https://github.com/Textualize/rich-cli) ⭐ 3,774 | 🐛 59 | 🌐 Python | 📅 2026-10-27:
   a command line toolbox for fancy output in the terminal
@@ -59,9 +59,9 @@ Textualize is responsible for creating frameworks / projects like:
 
 ### Third Party Applications
 
-* [Toolong](https://github.com/Textualize/toolong) ⭐ 3,969 | 🐛 38 | 🌐 Python | 📅 2024-08-05 - A terminal application to view, tail, merge, and search log files (plus JSONL).
-* [Frogmouth](https://github.com/Textualize/frogmouth) ⭐ 3,319 | 🐛 46 | 🌐 Python | 📅 2024-08-01 - A Markdown browser for your terminal.
-* [Elia](https://github.com/darrenburns/elia) ⭐ 2,484 | 🐛 27 | 🌐 Python | 📅 2024-10-10 -  A terminal ChatGPT client built with Textual.
+* [Toolong](https://github.com/Textualize/toolong) ⭐ 3,970 | 🐛 38 | 🌐 Python | 📅 2024-08-05 - A terminal application to view, tail, merge, and search log files (plus JSONL).
+* [Frogmouth](https://github.com/Textualize/frogmouth) ⭐ 3,320 | 🐛 46 | 🌐 Python | 📅 2024-08-01 - A Markdown browser for your terminal.
+* [Elia](https://github.com/darrenburns/elia) ⭐ 2,483 | 🐛 27 | 🌐 Python | 📅 2024-10-10 -  A terminal ChatGPT client built with Textual.
 * [RecoverPy](https://github.com/PabloLec/RecoverPy) ⭐ 1,795 | 🐛 3 | 🌐 Python | 📅 2026-08-03 - Interactively find and recover deleted or overwritten files from your terminal.
 * [Pain](https://github.com/1j01/textual-paint) ⭐ 1,124 | 🐛 11 | 🌐 Python | 📅 2026-02-21 - 🎨 MS Paint.<!--lint ignore no-repeat-punctuation-->.<!--lint ignore no-repeat-punctuation-->. in your terminal.
 * [Dunk](https://github.com/darrenburns/dunk) ⭐ 888 | 🐛 22 | 🌐 Python | 📅 2025-04-19 - Prettier git diffs in the terminal 🎨.
@@ -70,17 +70,17 @@ Textualize is responsible for creating frameworks / projects like:
 * [Markdown Browser](https://github.com/willmcgugan/textual-markdown) ⚠️ Archived - Markdown in the terminal.
 * [NoteSH](https://github.com/cvaniak/notesh) ⭐ 488 | 🐛 2 | 🌐 Python | 📅 2025-10-05 - A fully functional sticky notes App in your Terminal.
 * [Rexi](https://github.com/royreznik/rexi) ⭐ 395 | 🐛 10 | 🌐 Python | 📅 2026-06-23 - Terminal UI for Regex Testing.
-* [Django-TUI](https://github.com/anze3db/django-tui) ⭐ 299 | 🐛 0 | 🌐 Python | 📅 2026-10-27 - Inspect and run Django Commands in a text-based user interface (TUI).
+* [Django-TUI](https://github.com/anze3db/django-tui) ⭐ 300 | 🐛 0 | 🌐 Python | 📅 2026-10-27 - Inspect and run Django Commands in a text-based user interface (TUI).
 * [Autocomplete](https://github.com/darrenburns/textual-autocomplete) ⭐ 296 | 🐛 18 | 🌐 Python | 📅 2026-01-24 - Easily add autocomplete dropdowns to your Textual apps.
 * [Logmerger](https://github.com/ptmcg/logmerger) ⭐ 261 | 🐛 4 | 🌐 Python | 📅 2025-11-15 - TUI utility to view multiple log files with merged timeline.
 * [Kupo](https://github.com/darrenburns/kupo) ⭐ 214 | 🐛 3 | 🌐 Python | 📅 2024-07-05 - A terminal file browser, kupo!
 * [Shira](https://github.com/darrenburns/shira) ⭐ 198 | 🐛 2 | 🌐 Python | 📅 2023-02-17 - The python inspector 🔍.
 * [Terminal](https://github.com/mitosch/textual-terminal) ⭐ 143 | 🐛 11 | 🌐 Python | 📅 2024-06-27 - A terminal emulator widget for Textual.
-* [Imageview](https://github.com/adamviola/textual-imageview) ⭐ 137 | 🐛 5 | 🌐 Python | 📅 2023-01-08 - A simple terminal-based image viewer.
+* [Imageview](https://github.com/adamviola/textual-imageview) ⭐ 138 | 🐛 5 | 🌐 Python | 📅 2023-01-08 - A simple terminal-based image viewer.
 * [Usolitaire](https://github.com/eliasdorneles/usolitaire) ⭐ 104 | 🐛 2 | 🌐 Python | 📅 2025-10-04 - Solitaire in your terminal, powered by Unicode.
 * [Fspicker](https://github.com/davep/textual-fspicker) ⭐ 103 | 🐛 9 | 🌐 Python | 📅 2026-08-12 - A Textual widget library for picking things in the filesystem.
 * [Astview](https://github.com/davep/textual-astview) ⚠️ Archived - A Textual-based Python AST viewing widget library and application.
-* [HumBLE Explorer](https://github.com/koenvervloesem/humble-explorer) ⭐ 90 | 🐛 0 | 🌐 Python | 📅 2023-11-25 - A cross-platform, command-line and human-friendly Bluetooth Low Energy Scanner built with Textual.
+* [HumBLE Explorer](https://github.com/koenvervloesem/humble-explorer) ⭐ 91 | 🐛 0 | 🌐 Python | 📅 2023-11-25 - A cross-platform, command-line and human-friendly Bluetooth Low Energy Scanner built with Textual.
 * [Canvas](https://github.com/davep/textual-canvas) ⭐ 59 | 🐛 1 | 🌐 Python | 📅 2026-02-06 - A simple character-based canvas widget for use with Textual.
 * [Select](https://github.com/mitosch/textual-select) ⭐ 48 | 🐛 0 | 🌐 Python | 📅 2023-06-12 - A simple drop-down (select) for Textual with an optional search functionality.
 * [Datepicker](https://github.com/mitosch/textual-datepicker) ⭐ 37 | 🐛 2 | 🌐 Python | 📅 2023-04-25 - A datepicker for textual.
@@ -104,4 +104,4 @@ Textualize is responsible for creating frameworks / projects like:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
