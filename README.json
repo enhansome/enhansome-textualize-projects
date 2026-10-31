@@ -19,7 +19,7 @@
             "open_issues": 389,
             "owner": "Textualize",
             "repo": "rich",
-            "stars": 57683,
+            "stars": 57689,
             "topics": [
               "ansi-colors",
               "emoji",
@@ -57,7 +57,7 @@
             "open_issues": 376,
             "owner": "Textualize",
             "repo": "textual",
-            "stars": 37553,
+            "stars": 37556,
             "topics": [
               "cli",
               "framework",
@@ -120,7 +120,7 @@
                 "open_issues": 38,
                 "owner": "Textualize",
                 "repo": "toolong",
-                "stars": 3970,
+                "stars": 3972,
                 "topics": [
                   "jsonl",
                   "rich",
@@ -148,7 +148,7 @@
                 "open_issues": 46,
                 "owner": "Textualize",
                 "repo": "frogmouth",
-                "stars": 3320,
+                "stars": 3321,
                 "topics": [
                   "markdown",
                   "markdown-viewer",
@@ -176,7 +176,7 @@
                 "open_issues": 27,
                 "owner": "darrenburns",
                 "repo": "elia",
-                "stars": 2483,
+                "stars": 2482,
                 "topics": [
                   "ai",
                   "chatgpt",
@@ -325,7 +325,7 @@
                 "open_issues": 5,
                 "owner": "eliasdorneles",
                 "repo": "upiano",
-                "stars": 790,
+                "stars": 792,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:36:37.041Z"
@@ -395,7 +395,7 @@
                 "open_issues": 2,
                 "owner": "Cvaniak",
                 "repo": "NoteSH",
-                "stars": 488,
+                "stars": 489,
                 "topics": [
                   "colorful",
                   "console",
@@ -455,7 +455,7 @@
                 "open_issues": 0,
                 "owner": "anze3db",
                 "repo": "django-tui",
-                "stars": 300,
+                "stars": 301,
                 "topics": [
                   "command-line",
                   "django",
@@ -482,7 +482,7 @@
                 "open_issues": 18,
                 "owner": "darrenburns",
                 "repo": "textual-autocomplete",
-                "stars": 296,
+                "stars": 297,
                 "topics": [
                   "autocomplete",
                   "dropdown",
@@ -579,7 +579,7 @@
                 "open_issues": 11,
                 "owner": "mitosch",
                 "repo": "textual-terminal",
-                "stars": 143,
+                "stars": 144,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:36:37.041Z"
@@ -600,8 +600,43 @@
                 "open_issues": 5,
                 "owner": "adamviola",
                 "repo": "textual-imageview",
-                "stars": 138,
+                "stars": 139,
                 "topics": []
+              },
+              "first_seen": "2026-08-29T00:36:37.041Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Fspicker",
+              "description": "A Textual widget library for picking things in the filesystem.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A Textual widget library for picking things in the filesystem",
+                "homepage": "https://textual-fspicker.davep.dev/",
+                "id": 639619331,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-08-12T08:30:42Z",
+                "open_issues": 9,
+                "owner": "davep",
+                "repo": "textual-fspicker",
+                "stars": 104,
+                "topics": [
+                  "filesystem",
+                  "filesystem-library",
+                  "framework",
+                  "library",
+                  "python",
+                  "terminal",
+                  "textual",
+                  "textual-dialog",
+                  "textual-framework",
+                  "textual-widget",
+                  "toolkit",
+                  "tui",
+                  "ui"
+                ]
               },
               "first_seen": "2026-08-29T00:36:37.041Z"
             },
@@ -629,41 +664,6 @@
                   "textual-framework",
                   "tui",
                   "unicode-box-drawing"
-                ]
-              },
-              "first_seen": "2026-08-29T00:36:37.041Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Fspicker",
-              "description": "A Textual widget library for picking things in the filesystem.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A Textual widget library for picking things in the filesystem",
-                "homepage": "https://textual-fspicker.davep.dev/",
-                "id": 639619331,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-08-12T08:30:42Z",
-                "open_issues": 9,
-                "owner": "davep",
-                "repo": "textual-fspicker",
-                "stars": 103,
-                "topics": [
-                  "filesystem",
-                  "filesystem-library",
-                  "framework",
-                  "library",
-                  "python",
-                  "terminal",
-                  "textual",
-                  "textual-dialog",
-                  "textual-framework",
-                  "textual-widget",
-                  "toolkit",
-                  "tui",
-                  "ui"
                 ]
               },
               "first_seen": "2026-08-29T00:36:37.041Z"
@@ -916,7 +916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T20:57:34.145Z",
+    "last_updated": "2026-10-31T20:09:33.749Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects related to Textualize",
