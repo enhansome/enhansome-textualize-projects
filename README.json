@@ -19,7 +19,7 @@
             "open_issues": 391,
             "owner": "Textualize",
             "repo": "rich",
-            "stars": 57736,
+            "stars": 57748,
             "topics": [
               "ansi-colors",
               "emoji",
@@ -57,7 +57,7 @@
             "open_issues": 376,
             "owner": "Textualize",
             "repo": "textual",
-            "stars": 37578,
+            "stars": 37598,
             "topics": [
               "cli",
               "framework",
@@ -120,7 +120,7 @@
                 "open_issues": 38,
                 "owner": "Textualize",
                 "repo": "toolong",
-                "stars": 3971,
+                "stars": 3972,
                 "topics": [
                   "jsonl",
                   "rich",
@@ -259,7 +259,7 @@
                 "open_issues": 11,
                 "owner": "1j01",
                 "repo": "textual-paint",
-                "stars": 1126,
+                "stars": 1125,
                 "topics": [
                   "ansi-art",
                   "ansi-editor",
@@ -346,7 +346,7 @@
                 "open_issues": 3,
                 "owner": "darrenburns",
                 "repo": "rich-pixels",
-                "stars": 520,
+                "stars": 521,
                 "topics": [
                   "ascii",
                   "ascii-art",
@@ -455,7 +455,7 @@
                 "open_issues": 0,
                 "owner": "anze3db",
                 "repo": "django-tui",
-                "stars": 301,
+                "stars": 300,
                 "topics": [
                   "command-line",
                   "django",
@@ -482,7 +482,7 @@
                 "open_issues": 18,
                 "owner": "darrenburns",
                 "repo": "textual-autocomplete",
-                "stars": 297,
+                "stars": 298,
                 "topics": [
                   "autocomplete",
                   "dropdown",
@@ -916,7 +916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T22:01:36.376Z",
+    "last_updated": "2026-11-05T22:09:34.284Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects related to Textualize",
@@ -925,7 +925,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2024-03-18T02:18:36Z",
-      "open_issues": 6,
+      "open_issues": 7,
       "owner": "oleksis",
       "repo": "awesome-textualize-projects",
       "stars": 119,
