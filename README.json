@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-06-23T03:10:19Z",
-            "open_issues": 391,
+            "open_issues": 393,
             "owner": "Textualize",
             "repo": "rich",
-            "stars": 57748,
+            "stars": 57734,
             "topics": [
               "ansi-colors",
               "emoji",
@@ -54,10 +54,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-09T17:24:10Z",
-            "open_issues": 376,
+            "open_issues": 377,
             "owner": "Textualize",
             "repo": "textual",
-            "stars": 37598,
+            "stars": 37601,
             "topics": [
               "cli",
               "framework",
@@ -85,7 +85,7 @@
             "open_issues": 59,
             "owner": "Textualize",
             "repo": "rich-cli",
-            "stars": 3775,
+            "stars": 3777,
             "topics": [
               "markdown",
               "rich",
@@ -120,7 +120,7 @@
                 "open_issues": 38,
                 "owner": "Textualize",
                 "repo": "toolong",
-                "stars": 3972,
+                "stars": 3973,
                 "topics": [
                   "jsonl",
                   "rich",
@@ -148,7 +148,7 @@
                 "open_issues": 46,
                 "owner": "Textualize",
                 "repo": "frogmouth",
-                "stars": 3320,
+                "stars": 3321,
                 "topics": [
                   "markdown",
                   "markdown-viewer",
@@ -259,7 +259,7 @@
                 "open_issues": 11,
                 "owner": "1j01",
                 "repo": "textual-paint",
-                "stars": 1125,
+                "stars": 1126,
                 "topics": [
                   "ansi-art",
                   "ansi-editor",
@@ -916,7 +916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T22:09:34.284Z",
+    "last_updated": "2026-11-06T21:41:50.010Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects related to Textualize",
