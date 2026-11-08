@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-07T11:26:09Z",
-            "open_issues": 391,
+            "open_issues": 393,
             "owner": "Textualize",
             "repo": "rich",
-            "stars": 57745,
+            "stars": 57756,
             "topics": [
               "ansi-colors",
               "emoji",
@@ -57,7 +57,7 @@
             "open_issues": 377,
             "owner": "Textualize",
             "repo": "textual",
-            "stars": 37606,
+            "stars": 37610,
             "topics": [
               "cli",
               "framework",
@@ -148,7 +148,7 @@
                 "open_issues": 46,
                 "owner": "Textualize",
                 "repo": "frogmouth",
-                "stars": 3322,
+                "stars": 3323,
                 "topics": [
                   "markdown",
                   "markdown-viewer",
@@ -395,7 +395,7 @@
                 "open_issues": 2,
                 "owner": "Cvaniak",
                 "repo": "NoteSH",
-                "stars": 489,
+                "stars": 490,
                 "topics": [
                   "colorful",
                   "console",
@@ -430,7 +430,7 @@
                 "open_issues": 10,
                 "owner": "royreznik",
                 "repo": "rexi",
-                "stars": 395,
+                "stars": 396,
                 "topics": [
                   "python",
                   "regex",
@@ -916,7 +916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T20:23:12.645Z",
+    "last_updated": "2026-11-08T20:40:04.242Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects related to Textualize",
@@ -928,7 +928,7 @@
       "open_issues": 7,
       "owner": "oleksis",
       "repo": "awesome-textualize-projects",
-      "stars": 119,
+      "stars": 120,
       "topics": [
         "awesome",
         "awesome-list"
