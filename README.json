@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-07T11:26:09Z",
-            "open_issues": 393,
+            "open_issues": 394,
             "owner": "Textualize",
             "repo": "rich",
-            "stars": 57774,
+            "stars": 57784,
             "topics": [
               "ansi-colors",
               "emoji",
@@ -57,7 +57,7 @@
             "open_issues": 380,
             "owner": "Textualize",
             "repo": "textual",
-            "stars": 37621,
+            "stars": 37627,
             "topics": [
               "cli",
               "framework",
@@ -148,7 +148,7 @@
                 "open_issues": 46,
                 "owner": "Textualize",
                 "repo": "frogmouth",
-                "stars": 3323,
+                "stars": 3324,
                 "topics": [
                   "markdown",
                   "markdown-viewer",
@@ -214,10 +214,10 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-08-03T13:43:54Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "PabloLec",
                 "repo": "RecoverPy",
-                "stars": 1795,
+                "stars": 1796,
                 "topics": [
                   "cli",
                   "console",
@@ -395,7 +395,7 @@
                 "open_issues": 2,
                 "owner": "Cvaniak",
                 "repo": "NoteSH",
-                "stars": 490,
+                "stars": 491,
                 "topics": [
                   "colorful",
                   "console",
@@ -430,7 +430,7 @@
                 "open_issues": 10,
                 "owner": "royreznik",
                 "repo": "rexi",
-                "stars": 396,
+                "stars": 397,
                 "topics": [
                   "python",
                   "regex",
@@ -452,10 +452,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-01T22:27:23Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "anze3db",
                 "repo": "django-tui",
-                "stars": 301,
+                "stars": 302,
                 "topics": [
                   "command-line",
                   "django",
@@ -916,7 +916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T00:20:33.627Z",
+    "last_updated": "2026-11-10T21:52:07.386Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects related to Textualize",
