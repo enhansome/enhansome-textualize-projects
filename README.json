@@ -19,7 +19,7 @@
             "open_issues": 393,
             "owner": "Textualize",
             "repo": "rich",
-            "stars": 57756,
+            "stars": 57774,
             "topics": [
               "ansi-colors",
               "emoji",
@@ -53,11 +53,11 @@
             "id": 355959597,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-09T17:24:10Z",
-            "open_issues": 377,
+            "last_commit": "2026-11-09T13:42:07Z",
+            "open_issues": 380,
             "owner": "Textualize",
             "repo": "textual",
-            "stars": 37610,
+            "stars": 37621,
             "topics": [
               "cli",
               "framework",
@@ -217,7 +217,7 @@
                 "open_issues": 3,
                 "owner": "PabloLec",
                 "repo": "RecoverPy",
-                "stars": 1796,
+                "stars": 1795,
                 "topics": [
                   "cli",
                   "console",
@@ -579,7 +579,7 @@
                 "open_issues": 11,
                 "owner": "mitosch",
                 "repo": "textual-terminal",
-                "stars": 144,
+                "stars": 143,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:36:37.041Z"
@@ -916,7 +916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T20:40:04.242Z",
+    "last_updated": "2026-11-10T00:20:33.627Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects related to Textualize",
