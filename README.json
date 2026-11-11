@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-07T11:26:09Z",
-            "open_issues": 394,
+            "open_issues": 395,
             "owner": "Textualize",
             "repo": "rich",
-            "stars": 57784,
+            "stars": 57807,
             "topics": [
               "ansi-colors",
               "emoji",
@@ -57,7 +57,7 @@
             "open_issues": 380,
             "owner": "Textualize",
             "repo": "textual",
-            "stars": 37627,
+            "stars": 37638,
             "topics": [
               "cli",
               "framework",
@@ -176,7 +176,7 @@
                 "open_issues": 27,
                 "owner": "darrenburns",
                 "repo": "elia",
-                "stars": 2481,
+                "stars": 2482,
                 "topics": [
                   "ai",
                   "chatgpt",
@@ -214,7 +214,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-08-03T13:43:54Z",
-                "open_issues": 4,
+                "open_issues": 3,
                 "owner": "PabloLec",
                 "repo": "RecoverPy",
                 "stars": 1796,
@@ -299,7 +299,7 @@
                 "open_issues": 22,
                 "owner": "darrenburns",
                 "repo": "dunk",
-                "stars": 888,
+                "stars": 889,
                 "topics": [
                   "cli",
                   "diff",
@@ -452,7 +452,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-01T22:27:23Z",
-                "open_issues": 1,
+                "open_issues": 0,
                 "owner": "anze3db",
                 "repo": "django-tui",
                 "stars": 302,
@@ -916,7 +916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T21:52:07.386Z",
+    "last_updated": "2026-11-11T22:53:40.494Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects related to Textualize",
