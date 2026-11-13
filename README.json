@@ -15,11 +15,11 @@
             "id": 220809393,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-07T11:26:09Z",
-            "open_issues": 395,
+            "last_commit": "2026-11-13T17:46:06Z",
+            "open_issues": 401,
             "owner": "Textualize",
             "repo": "rich",
-            "stars": 57821,
+            "stars": 57803,
             "topics": [
               "ansi-colors",
               "emoji",
@@ -54,10 +54,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-09T13:42:07Z",
-            "open_issues": 382,
+            "open_issues": 415,
             "owner": "Textualize",
             "repo": "textual",
-            "stars": 37651,
+            "stars": 37648,
             "topics": [
               "cli",
               "framework",
@@ -120,7 +120,7 @@
                 "open_issues": 38,
                 "owner": "Textualize",
                 "repo": "toolong",
-                "stars": 3973,
+                "stars": 3972,
                 "topics": [
                   "jsonl",
                   "rich",
@@ -148,7 +148,7 @@
                 "open_issues": 46,
                 "owner": "Textualize",
                 "repo": "frogmouth",
-                "stars": 3323,
+                "stars": 3325,
                 "topics": [
                   "markdown",
                   "markdown-viewer",
@@ -176,7 +176,7 @@
                 "open_issues": 27,
                 "owner": "darrenburns",
                 "repo": "elia",
-                "stars": 2482,
+                "stars": 2481,
                 "topics": [
                   "ai",
                   "chatgpt",
@@ -511,7 +511,7 @@
                 "open_issues": 4,
                 "owner": "ptmcg",
                 "repo": "logmerger",
-                "stars": 261,
+                "stars": 260,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:36:37.041Z"
@@ -916,7 +916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T22:21:18.553Z",
+    "last_updated": "2026-11-13T22:03:53.430Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects related to Textualize",
