@@ -8,15 +8,15 @@
 
 # Awesome Textualize Projects with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 536,895 | 🐛 104 | 📅 2026-09-02 [<!--lint ignore no-dead-urls-->![GitHub Actions status | oleksis/awesome-textualize-projects](https://github.com/oleksis/awesome-textualize-projects/actions/workflows/lint.yml/badge.svg)](https://github.com/oleksis/awesome-textualize-projects/actions/workflows/lint.yml)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 537,435 | 🐛 104 | 📅 2026-09-02 [<!--lint ignore no-dead-urls-->![GitHub Actions status | oleksis/awesome-textualize-projects](https://github.com/oleksis/awesome-textualize-projects/actions/workflows/lint.yml/badge.svg)](https://github.com/oleksis/awesome-textualize-projects/actions/workflows/lint.yml)
 
 > A curated list of awesome projects related to [Textualize].
 
 Textualize is responsible for creating frameworks / projects like:
 
-* [Rich](https://github.com/Textualize/rich) ⭐ 57,804 | 🐛 402 | 🌐 Python | 📅 2026-11-13:
+* [Rich](https://github.com/Textualize/rich) ⭐ 57,812 | 🐛 402 | 🌐 Python | 📅 2026-11-13:
   a Python library for rich text and beautiful formatting in the terminal.
-* [Textual](https://github.com/Textualize/textual) ⭐ 37,656 | 🐛 415 | 🌐 Python | 📅 2026-11-09:
+* [Textual](https://github.com/Textualize/textual) ⭐ 37,665 | 🐛 415 | 🌐 Python | 📅 2026-11-09:
   a TUI (Text User Interface) framework for Python inspired by modern web development.
 * [Rich CLI](https://github.com/Textualize/rich-cli) ⭐ 3,779 | 🐛 59 | 🌐 Python | 📅 2026-10-27:
   a command line toolbox for fancy output in the terminal
@@ -104,4 +104,4 @@ Textualize is responsible for creating frameworks / projects like:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
