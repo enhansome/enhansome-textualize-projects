@@ -8,15 +8,15 @@
 
 # Awesome Textualize Projects with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 537,435 | 🐛 104 | 📅 2026-09-02 [<!--lint ignore no-dead-urls-->![GitHub Actions status | oleksis/awesome-textualize-projects](https://github.com/oleksis/awesome-textualize-projects/actions/workflows/lint.yml/badge.svg)](https://github.com/oleksis/awesome-textualize-projects/actions/workflows/lint.yml)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 538,006 | 🐛 104 | 📅 2026-09-02 [<!--lint ignore no-dead-urls-->![GitHub Actions status | oleksis/awesome-textualize-projects](https://github.com/oleksis/awesome-textualize-projects/actions/workflows/lint.yml/badge.svg)](https://github.com/oleksis/awesome-textualize-projects/actions/workflows/lint.yml)
 
 > A curated list of awesome projects related to [Textualize].
 
 Textualize is responsible for creating frameworks / projects like:
 
-* [Rich](https://github.com/Textualize/rich) ⭐ 57,812 | 🐛 402 | 🌐 Python | 📅 2026-11-13:
+* [Rich](https://github.com/Textualize/rich) ⭐ 57,816 | 🐛 404 | 🌐 Python | 📅 2026-11-13:
   a Python library for rich text and beautiful formatting in the terminal.
-* [Textual](https://github.com/Textualize/textual) ⭐ 37,665 | 🐛 415 | 🌐 Python | 📅 2026-11-09:
+* [Textual](https://github.com/Textualize/textual) ⭐ 37,674 | 🐛 415 | 🌐 Python | 📅 2026-11-09:
   a TUI (Text User Interface) framework for Python inspired by modern web development.
 * [Rich CLI](https://github.com/Textualize/rich-cli) ⭐ 3,779 | 🐛 59 | 🌐 Python | 📅 2026-10-27:
   a command line toolbox for fancy output in the terminal
@@ -60,11 +60,11 @@ Textualize is responsible for creating frameworks / projects like:
 ### Third Party Applications
 
 * [Toolong](https://github.com/Textualize/toolong) ⭐ 3,972 | 🐛 38 | 🌐 Python | 📅 2024-08-05 - A terminal application to view, tail, merge, and search log files (plus JSONL).
-* [Frogmouth](https://github.com/Textualize/frogmouth) ⭐ 3,326 | 🐛 46 | 🌐 Python | 📅 2024-08-01 - A Markdown browser for your terminal.
-* [Elia](https://github.com/darrenburns/elia) ⭐ 2,481 | 🐛 27 | 🌐 Python | 📅 2024-10-10 -  A terminal ChatGPT client built with Textual.
-* [RecoverPy](https://github.com/PabloLec/RecoverPy) ⭐ 1,797 | 🐛 3 | 🌐 Python | 📅 2026-08-03 - Interactively find and recover deleted or overwritten files from your terminal.
+* [Frogmouth](https://github.com/Textualize/frogmouth) ⭐ 3,325 | 🐛 46 | 🌐 Python | 📅 2024-08-01 - A Markdown browser for your terminal.
+* [Elia](https://github.com/darrenburns/elia) ⭐ 2,482 | 🐛 27 | 🌐 Python | 📅 2024-10-10 -  A terminal ChatGPT client built with Textual.
+* [RecoverPy](https://github.com/PabloLec/RecoverPy) ⭐ 1,799 | 🐛 3 | 🌐 Python | 📅 2026-08-03 - Interactively find and recover deleted or overwritten files from your terminal.
 * [Pain](https://github.com/1j01/textual-paint) ⭐ 1,128 | 🐛 11 | 🌐 Python | 📅 2026-02-21 - 🎨 MS Paint.<!--lint ignore no-repeat-punctuation-->.<!--lint ignore no-repeat-punctuation-->. in your terminal.
-* [Dunk](https://github.com/darrenburns/dunk) ⭐ 889 | 🐛 22 | 🌐 Python | 📅 2025-04-19 - Prettier git diffs in the terminal 🎨.
+* [Dunk](https://github.com/darrenburns/dunk) ⭐ 890 | 🐛 22 | 🌐 Python | 📅 2025-04-19 - Prettier git diffs in the terminal 🎨.
 * [Upiano](https://github.com/eliasdorneles/upiano) ⭐ 793 | 🐛 5 | 🌐 Python | 📅 2025-07-09 - A Piano in your terminal.
 * [Rich Pixels](https://github.com/darrenburns/rich-pixels) ⭐ 521 | 🐛 3 | 🌐 Python | 📅 2024-10-18 - A Rich-compatible library for writing pixel images and ASCII art to the terminal.
 * [Markdown Browser](https://github.com/willmcgugan/textual-markdown) ⚠️ Archived - Markdown in the terminal.
@@ -104,4 +104,4 @@ Textualize is responsible for creating frameworks / projects like:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._

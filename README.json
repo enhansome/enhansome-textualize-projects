@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-13T17:46:06Z",
-            "open_issues": 402,
+            "open_issues": 404,
             "owner": "Textualize",
             "repo": "rich",
-            "stars": 57812,
+            "stars": 57816,
             "topics": [
               "ansi-colors",
               "emoji",
@@ -57,7 +57,7 @@
             "open_issues": 415,
             "owner": "Textualize",
             "repo": "textual",
-            "stars": 37665,
+            "stars": 37674,
             "topics": [
               "cli",
               "framework",
@@ -148,7 +148,7 @@
                 "open_issues": 46,
                 "owner": "Textualize",
                 "repo": "frogmouth",
-                "stars": 3326,
+                "stars": 3325,
                 "topics": [
                   "markdown",
                   "markdown-viewer",
@@ -176,7 +176,7 @@
                 "open_issues": 27,
                 "owner": "darrenburns",
                 "repo": "elia",
-                "stars": 2481,
+                "stars": 2482,
                 "topics": [
                   "ai",
                   "chatgpt",
@@ -217,7 +217,7 @@
                 "open_issues": 3,
                 "owner": "PabloLec",
                 "repo": "RecoverPy",
-                "stars": 1797,
+                "stars": 1799,
                 "topics": [
                   "cli",
                   "console",
@@ -299,7 +299,7 @@
                 "open_issues": 22,
                 "owner": "darrenburns",
                 "repo": "dunk",
-                "stars": 889,
+                "stars": 890,
                 "topics": [
                   "cli",
                   "diff",
@@ -916,7 +916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T21:08:15.475Z",
+    "last_updated": "2026-11-17T00:21:43.459Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects related to Textualize",
