@@ -8,15 +8,15 @@
 
 # Awesome Textualize Projects with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 538,535 | 🐛 104 | 📅 2026-09-02 [<!--lint ignore no-dead-urls-->![GitHub Actions status | oleksis/awesome-textualize-projects](https://github.com/oleksis/awesome-textualize-projects/actions/workflows/lint.yml/badge.svg)](https://github.com/oleksis/awesome-textualize-projects/actions/workflows/lint.yml)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 539,006 | 🐛 104 | 📅 2026-09-02 [<!--lint ignore no-dead-urls-->![GitHub Actions status | oleksis/awesome-textualize-projects](https://github.com/oleksis/awesome-textualize-projects/actions/workflows/lint.yml/badge.svg)](https://github.com/oleksis/awesome-textualize-projects/actions/workflows/lint.yml)
 
 > A curated list of awesome projects related to [Textualize].
 
 Textualize is responsible for creating frameworks / projects like:
 
-* [Rich](https://github.com/Textualize/rich) ⭐ 57,820 | 🐛 405 | 🌐 Python | 📅 2026-11-13:
+* [Rich](https://github.com/Textualize/rich) ⭐ 57,826 | 🐛 407 | 🌐 Python | 📅 2026-11-13:
   a Python library for rich text and beautiful formatting in the terminal.
-* [Textual](https://github.com/Textualize/textual) ⭐ 37,679 | 🐛 415 | 🌐 Python | 📅 2026-11-09:
+* [Textual](https://github.com/Textualize/textual) ⭐ 37,688 | 🐛 417 | 🌐 Python | 📅 2026-11-09:
   a TUI (Text User Interface) framework for Python inspired by modern web development.
 * [Rich CLI](https://github.com/Textualize/rich-cli) ⭐ 3,779 | 🐛 59 | 🌐 Python | 📅 2026-10-27:
   a command line toolbox for fancy output in the terminal
@@ -61,7 +61,7 @@ Textualize is responsible for creating frameworks / projects like:
 
 * [Toolong](https://github.com/Textualize/toolong) ⭐ 3,972 | 🐛 38 | 🌐 Python | 📅 2024-08-05 - A terminal application to view, tail, merge, and search log files (plus JSONL).
 * [Frogmouth](https://github.com/Textualize/frogmouth) ⭐ 3,326 | 🐛 46 | 🌐 Python | 📅 2024-08-01 - A Markdown browser for your terminal.
-* [Elia](https://github.com/darrenburns/elia) ⭐ 2,482 | 🐛 27 | 🌐 Python | 📅 2024-10-10 -  A terminal ChatGPT client built with Textual.
+* [Elia](https://github.com/darrenburns/elia) ⭐ 2,483 | 🐛 27 | 🌐 Python | 📅 2024-10-10 -  A terminal ChatGPT client built with Textual.
 * [RecoverPy](https://github.com/PabloLec/RecoverPy) ⭐ 1,799 | 🐛 3 | 🌐 Python | 📅 2026-08-03 - Interactively find and recover deleted or overwritten files from your terminal.
 * [Pain](https://github.com/1j01/textual-paint) ⭐ 1,128 | 🐛 11 | 🌐 Python | 📅 2026-02-21 - 🎨 MS Paint.<!--lint ignore no-repeat-punctuation-->.<!--lint ignore no-repeat-punctuation-->. in your terminal.
 * [Dunk](https://github.com/darrenburns/dunk) ⭐ 890 | 🐛 22 | 🌐 Python | 📅 2025-04-19 - Prettier git diffs in the terminal 🎨.
@@ -76,7 +76,7 @@ Textualize is responsible for creating frameworks / projects like:
 * [Kupo](https://github.com/darrenburns/kupo) ⭐ 214 | 🐛 3 | 🌐 Python | 📅 2024-07-05 - A terminal file browser, kupo!
 * [Shira](https://github.com/darrenburns/shira) ⭐ 198 | 🐛 2 | 🌐 Python | 📅 2023-02-17 - The python inspector 🔍.
 * [Terminal](https://github.com/mitosch/textual-terminal) ⭐ 143 | 🐛 11 | 🌐 Python | 📅 2024-06-27 - A terminal emulator widget for Textual.
-* [Imageview](https://github.com/adamviola/textual-imageview) ⭐ 139 | 🐛 5 | 🌐 Python | 📅 2023-01-08 - A simple terminal-based image viewer.
+* [Imageview](https://github.com/adamviola/textual-imageview) ⭐ 138 | 🐛 5 | 🌐 Python | 📅 2023-01-08 - A simple terminal-based image viewer.
 * [Fspicker](https://github.com/davep/textual-fspicker) ⭐ 104 | 🐛 9 | 🌐 Python | 📅 2026-08-12 - A Textual widget library for picking things in the filesystem.
 * [Usolitaire](https://github.com/eliasdorneles/usolitaire) ⭐ 104 | 🐛 2 | 🌐 Python | 📅 2025-10-04 - Solitaire in your terminal, powered by Unicode.
 * [Astview](https://github.com/davep/textual-astview) ⚠️ Archived - A Textual-based Python AST viewing widget library and application.
@@ -104,4 +104,4 @@ Textualize is responsible for creating frameworks / projects like:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
