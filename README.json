@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-13T17:46:06Z",
-            "open_issues": 407,
+            "open_issues": 406,
             "owner": "Textualize",
             "repo": "rich",
-            "stars": 57826,
+            "stars": 57832,
             "topics": [
               "ansi-colors",
               "emoji",
@@ -54,10 +54,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-09T13:42:07Z",
-            "open_issues": 417,
+            "open_issues": 418,
             "owner": "Textualize",
             "repo": "textual",
-            "stars": 37688,
+            "stars": 37698,
             "topics": [
               "cli",
               "framework",
@@ -120,7 +120,7 @@
                 "open_issues": 38,
                 "owner": "Textualize",
                 "repo": "toolong",
-                "stars": 3972,
+                "stars": 3971,
                 "topics": [
                   "jsonl",
                   "rich",
@@ -148,7 +148,7 @@
                 "open_issues": 46,
                 "owner": "Textualize",
                 "repo": "frogmouth",
-                "stars": 3326,
+                "stars": 3325,
                 "topics": [
                   "markdown",
                   "markdown-viewer",
@@ -176,7 +176,7 @@
                 "open_issues": 27,
                 "owner": "darrenburns",
                 "repo": "elia",
-                "stars": 2483,
+                "stars": 2482,
                 "topics": [
                   "ai",
                   "chatgpt",
@@ -217,7 +217,7 @@
                 "open_issues": 3,
                 "owner": "PabloLec",
                 "repo": "RecoverPy",
-                "stars": 1799,
+                "stars": 1798,
                 "topics": [
                   "cli",
                   "console",
@@ -299,7 +299,7 @@
                 "open_issues": 22,
                 "owner": "darrenburns",
                 "repo": "dunk",
-                "stars": 890,
+                "stars": 888,
                 "topics": [
                   "cli",
                   "diff",
@@ -325,7 +325,7 @@
                 "open_issues": 5,
                 "owner": "eliasdorneles",
                 "repo": "upiano",
-                "stars": 793,
+                "stars": 794,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:36:37.041Z"
@@ -395,7 +395,7 @@
                 "open_issues": 2,
                 "owner": "Cvaniak",
                 "repo": "NoteSH",
-                "stars": 491,
+                "stars": 490,
                 "topics": [
                   "colorful",
                   "console",
@@ -455,7 +455,7 @@
                 "open_issues": 0,
                 "owner": "anze3db",
                 "repo": "django-tui",
-                "stars": 302,
+                "stars": 301,
                 "topics": [
                   "command-line",
                   "django",
@@ -511,7 +511,7 @@
                 "open_issues": 4,
                 "owner": "ptmcg",
                 "repo": "logmerger",
-                "stars": 260,
+                "stars": 259,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:36:37.041Z"
@@ -579,7 +579,7 @@
                 "open_issues": 11,
                 "owner": "mitosch",
                 "repo": "textual-terminal",
-                "stars": 143,
+                "stars": 144,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:36:37.041Z"
@@ -916,7 +916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T22:59:31.186Z",
+    "last_updated": "2026-11-19T23:08:00.856Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects related to Textualize",
