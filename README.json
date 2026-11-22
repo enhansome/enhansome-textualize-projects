@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-13T17:46:06Z",
-            "open_issues": 407,
+            "open_issues": 408,
             "owner": "Textualize",
             "repo": "rich",
-            "stars": 57842,
+            "stars": 57850,
             "topics": [
               "ansi-colors",
               "emoji",
@@ -57,7 +57,7 @@
             "open_issues": 419,
             "owner": "Textualize",
             "repo": "textual",
-            "stars": 37704,
+            "stars": 37715,
             "topics": [
               "cli",
               "framework",
@@ -145,7 +145,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2024-08-01T06:51:47Z",
-                "open_issues": 46,
+                "open_issues": 45,
                 "owner": "Textualize",
                 "repo": "frogmouth",
                 "stars": 3325,
@@ -259,7 +259,7 @@
                 "open_issues": 11,
                 "owner": "1j01",
                 "repo": "textual-paint",
-                "stars": 1129,
+                "stars": 1128,
                 "topics": [
                   "ansi-art",
                   "ansi-editor",
@@ -325,7 +325,7 @@
                 "open_issues": 5,
                 "owner": "eliasdorneles",
                 "repo": "upiano",
-                "stars": 794,
+                "stars": 795,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:36:37.041Z"
@@ -916,7 +916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T21:45:59.271Z",
+    "last_updated": "2026-11-22T21:55:24.643Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects related to Textualize",
@@ -928,7 +928,7 @@
       "open_issues": 7,
       "owner": "oleksis",
       "repo": "awesome-textualize-projects",
-      "stars": 120,
+      "stars": 121,
       "topics": [
         "awesome",
         "awesome-list"
