@@ -19,7 +19,7 @@
             "open_issues": 408,
             "owner": "Textualize",
             "repo": "rich",
-            "stars": 57850,
+            "stars": 57860,
             "topics": [
               "ansi-colors",
               "emoji",
@@ -57,7 +57,7 @@
             "open_issues": 419,
             "owner": "Textualize",
             "repo": "textual",
-            "stars": 37715,
+            "stars": 37721,
             "topics": [
               "cli",
               "framework",
@@ -85,7 +85,7 @@
             "open_issues": 59,
             "owner": "Textualize",
             "repo": "rich-cli",
-            "stars": 3779,
+            "stars": 3781,
             "topics": [
               "markdown",
               "rich",
@@ -148,7 +148,7 @@
                 "open_issues": 45,
                 "owner": "Textualize",
                 "repo": "frogmouth",
-                "stars": 3325,
+                "stars": 3326,
                 "topics": [
                   "markdown",
                   "markdown-viewer",
@@ -176,7 +176,7 @@
                 "open_issues": 27,
                 "owner": "darrenburns",
                 "repo": "elia",
-                "stars": 2482,
+                "stars": 2483,
                 "topics": [
                   "ai",
                   "chatgpt",
@@ -256,10 +256,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-02-21T22:00:38Z",
-                "open_issues": 11,
+                "open_issues": 10,
                 "owner": "1j01",
                 "repo": "textual-paint",
-                "stars": 1128,
+                "stars": 1129,
                 "topics": [
                   "ansi-art",
                   "ansi-editor",
@@ -325,7 +325,7 @@
                 "open_issues": 5,
                 "owner": "eliasdorneles",
                 "repo": "upiano",
-                "stars": 795,
+                "stars": 797,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:36:37.041Z"
@@ -455,7 +455,7 @@
                 "open_issues": 0,
                 "owner": "anze3db",
                 "repo": "django-tui",
-                "stars": 301,
+                "stars": 302,
                 "topics": [
                   "command-line",
                   "django",
@@ -479,7 +479,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-01-24T00:45:26Z",
-                "open_issues": 18,
+                "open_issues": 17,
                 "owner": "darrenburns",
                 "repo": "textual-autocomplete",
                 "stars": 298,
@@ -916,7 +916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T21:55:24.643Z",
+    "last_updated": "2026-11-24T02:58:44.101Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects related to Textualize",
@@ -928,7 +928,7 @@
       "open_issues": 7,
       "owner": "oleksis",
       "repo": "awesome-textualize-projects",
-      "stars": 121,
+      "stars": 122,
       "topics": [
         "awesome",
         "awesome-list"
