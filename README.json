@@ -19,7 +19,7 @@
             "open_issues": 409,
             "owner": "Textualize",
             "repo": "rich",
-            "stars": 57883,
+            "stars": 57895,
             "topics": [
               "ansi-colors",
               "emoji",
@@ -57,7 +57,7 @@
             "open_issues": 419,
             "owner": "Textualize",
             "repo": "textual",
-            "stars": 37735,
+            "stars": 37747,
             "topics": [
               "cli",
               "framework",
@@ -176,7 +176,7 @@
                 "open_issues": 27,
                 "owner": "darrenburns",
                 "repo": "elia",
-                "stars": 2484,
+                "stars": 2483,
                 "topics": [
                   "ai",
                   "chatgpt",
@@ -346,7 +346,7 @@
                 "open_issues": 3,
                 "owner": "darrenburns",
                 "repo": "rich-pixels",
-                "stars": 521,
+                "stars": 520,
                 "topics": [
                   "ascii",
                   "ascii-art",
@@ -395,7 +395,7 @@
                 "open_issues": 2,
                 "owner": "Cvaniak",
                 "repo": "NoteSH",
-                "stars": 490,
+                "stars": 488,
                 "topics": [
                   "colorful",
                   "console",
@@ -482,7 +482,7 @@
                 "open_issues": 17,
                 "owner": "darrenburns",
                 "repo": "textual-autocomplete",
-                "stars": 298,
+                "stars": 297,
                 "topics": [
                   "autocomplete",
                   "dropdown",
@@ -532,7 +532,7 @@
                 "open_issues": 3,
                 "owner": "darrenburns",
                 "repo": "kupo",
-                "stars": 214,
+                "stars": 213,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:36:37.041Z"
@@ -579,7 +579,7 @@
                 "open_issues": 11,
                 "owner": "mitosch",
                 "repo": "textual-terminal",
-                "stars": 144,
+                "stars": 143,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:36:37.041Z"
@@ -916,7 +916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T00:33:48.037Z",
+    "last_updated": "2026-11-27T00:42:37.789Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects related to Textualize",
