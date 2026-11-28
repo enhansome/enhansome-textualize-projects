@@ -8,15 +8,15 @@
 
 # Awesome Textualize Projects with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 543,435 | 🐛 103 | 📅 2026-09-02 [<!--lint ignore no-dead-urls-->![GitHub Actions status | oleksis/awesome-textualize-projects](https://github.com/oleksis/awesome-textualize-projects/actions/workflows/lint.yml/badge.svg)](https://github.com/oleksis/awesome-textualize-projects/actions/workflows/lint.yml)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 543,955 | 🐛 103 | 📅 2026-09-02 [<!--lint ignore no-dead-urls-->![GitHub Actions status | oleksis/awesome-textualize-projects](https://github.com/oleksis/awesome-textualize-projects/actions/workflows/lint.yml/badge.svg)](https://github.com/oleksis/awesome-textualize-projects/actions/workflows/lint.yml)
 
 > A curated list of awesome projects related to [Textualize].
 
 Textualize is responsible for creating frameworks / projects like:
 
-* [Rich](https://github.com/Textualize/rich) ⭐ 57,895 | 🐛 409 | 🌐 Python | 📅 2026-11-13:
+* [Rich](https://github.com/Textualize/rich) ⭐ 57,912 | 🐛 410 | 🌐 Python | 📅 2026-11-13:
   a Python library for rich text and beautiful formatting in the terminal.
-* [Textual](https://github.com/Textualize/textual) ⭐ 37,747 | 🐛 419 | 🌐 Python | 📅 2026-11-09:
+* [Textual](https://github.com/Textualize/textual) ⭐ 37,754 | 🐛 420 | 🌐 Python | 📅 2026-11-09:
   a TUI (Text User Interface) framework for Python inspired by modern web development.
 * [Rich CLI](https://github.com/Textualize/rich-cli) ⭐ 3,784 | 🐛 59 | 🌐 Python | 📅 2026-10-27:
   a command line toolbox for fancy output in the terminal
@@ -59,7 +59,7 @@ Textualize is responsible for creating frameworks / projects like:
 
 ### Third Party Applications
 
-* [Toolong](https://github.com/Textualize/toolong) ⭐ 3,971 | 🐛 38 | 🌐 Python | 📅 2024-08-05 - A terminal application to view, tail, merge, and search log files (plus JSONL).
+* [Toolong](https://github.com/Textualize/toolong) ⭐ 3,972 | 🐛 38 | 🌐 Python | 📅 2024-08-05 - A terminal application to view, tail, merge, and search log files (plus JSONL).
 * [Frogmouth](https://github.com/Textualize/frogmouth) ⭐ 3,326 | 🐛 45 | 🌐 Python | 📅 2024-08-01 - A Markdown browser for your terminal.
 * [Elia](https://github.com/darrenburns/elia) ⭐ 2,483 | 🐛 27 | 🌐 Python | 📅 2024-10-10 -  A terminal ChatGPT client built with Textual.
 * [RecoverPy](https://github.com/PabloLec/RecoverPy) ⭐ 1,799 | 🐛 3 | 🌐 Python | 📅 2026-08-03 - Interactively find and recover deleted or overwritten files from your terminal.
@@ -104,4 +104,4 @@ Textualize is responsible for creating frameworks / projects like:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._
